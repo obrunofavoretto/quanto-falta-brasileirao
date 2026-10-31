@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:53:30.847338+00:00",
+  "fetchedAt": "2026-10-31T23:17:20.917501+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -108,24 +108,24 @@
       "sourceId": "2026"
     },
     {
+      "id": 147,
+      "name": "Coritiba",
+      "points": 42,
+      "played": 33,
+      "goalsFor": 40,
+      "goalsAgainst": 50,
+      "position": 11,
+      "sourceId": "3456"
+    },
+    {
       "id": 120,
       "name": "Botafogo",
       "points": 39,
       "played": 33,
       "goalsFor": 45,
       "goalsAgainst": 53,
-      "position": 11,
-      "sourceId": "6086"
-    },
-    {
-      "id": 147,
-      "name": "Coritiba",
-      "points": 39,
-      "played": 32,
-      "goalsFor": 38,
-      "goalsAgainst": 50,
       "position": 12,
-      "sourceId": "3456"
+      "sourceId": "6086"
     },
     {
       "id": 133,
@@ -141,9 +141,9 @@
       "id": 136,
       "name": "Vitória",
       "points": 38,
-      "played": 32,
+      "played": 33,
       "goalsFor": 35,
-      "goalsAgainst": 46,
+      "goalsAgainst": 48,
       "position": 14,
       "sourceId": "3457"
     },

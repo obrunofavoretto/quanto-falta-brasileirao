@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:53:30.847338+00:00",
+  "fetchedAt": "2026-10-31T23:17:20.917501+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -77,16 +77,16 @@
       "completed": 33
     },
     {
+      "id": 147,
+      "name": "Coritiba",
+      "sourceId": "3456",
+      "completed": 33
+    },
+    {
       "id": 120,
       "name": "Botafogo",
       "sourceId": "6086",
       "completed": 33
-    },
-    {
-      "id": 147,
-      "name": "Coritiba",
-      "sourceId": "3456",
-      "completed": 32
     },
     {
       "id": 133,
@@ -98,7 +98,7 @@
       "id": 136,
       "name": "Vitória",
       "sourceId": "3457",
-      "completed": 32
+      "completed": 33
     },
     {
       "id": 130,
@@ -8420,8 +8420,30 @@
       ],
       "firstScorer": 131,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841294",
+      "date": "2026-10-31T19:00Z",
+      "home": 147,
+      "away": 136,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 147,
+          "minute": "58",
+          "bin": 4
+        },
+        {
+          "team": 147,
+          "minute": "69",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 147,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 328,
+  "completedMatches": 329,
   "excluded": []
 }
