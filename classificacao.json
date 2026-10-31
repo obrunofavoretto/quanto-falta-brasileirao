@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:48.785207+00:00",
+  "fetchedAt": "2026-10-31T03:03:54.350500+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -161,11 +161,21 @@
       "id": 7848,
       "name": "Mirassol",
       "points": 37,
-      "played": 32,
+      "played": 33,
       "goalsFor": 37,
-      "goalsAgainst": 45,
+      "goalsAgainst": 47,
       "position": 16,
       "sourceId": "9169"
+    },
+    {
+      "id": 131,
+      "name": "Corinthians",
+      "points": 36,
+      "played": 33,
+      "goalsFor": 36,
+      "goalsAgainst": 42,
+      "position": 17,
+      "sourceId": "874"
     },
     {
       "id": 119,
@@ -174,18 +184,8 @@
       "played": 33,
       "goalsFor": 37,
       "goalsAgainst": 42,
-      "position": 17,
-      "sourceId": "1936"
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "points": 33,
-      "played": 32,
-      "goalsFor": 34,
-      "goalsAgainst": 42,
       "position": 18,
-      "sourceId": "874"
+      "sourceId": "1936"
     },
     {
       "id": 1198,

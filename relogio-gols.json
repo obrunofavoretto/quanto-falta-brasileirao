@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:48.785207+00:00",
+  "fetchedAt": "2026-10-31T03:03:54.350500+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -110,19 +110,19 @@
       "id": 7848,
       "name": "Mirassol",
       "sourceId": "9169",
-      "completed": 32
-    },
-    {
-      "id": 119,
-      "name": "Internacional",
-      "sourceId": "1936",
       "completed": 33
     },
     {
       "id": 131,
       "name": "Corinthians",
       "sourceId": "874",
-      "completed": 32
+      "completed": 33
+    },
+    {
+      "id": 119,
+      "name": "Internacional",
+      "sourceId": "1936",
+      "completed": 33
     },
     {
       "id": 1198,
@@ -8398,8 +8398,30 @@
       ],
       "firstScorer": 130,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841295",
+      "date": "2026-10-30T23:00Z",
+      "home": 131,
+      "away": 7848,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 131,
+          "minute": "58",
+          "bin": 4
+        },
+        {
+          "team": 131,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 131,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 327,
+  "completedMatches": 328,
   "excluded": []
 }

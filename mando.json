@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:48.785207+00:00",
+  "fetchedAt": "2026-10-31T03:03:54.350500+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -348,13 +348,35 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 15,
+        "played": 16,
         "points": 10,
         "wins": 2,
         "draws": 4,
-        "losses": 9,
+        "losses": 10,
         "goalsFor": 13,
-        "goalsAgainst": 23
+        "goalsAgainst": 25
+      }
+    },
+    {
+      "id": 131,
+      "name": "Corinthians",
+      "home": {
+        "played": 17,
+        "points": 22,
+        "wins": 6,
+        "draws": 4,
+        "losses": 7,
+        "goalsFor": 18,
+        "goalsAgainst": 17
+      },
+      "away": {
+        "played": 16,
+        "points": 14,
+        "wins": 3,
+        "draws": 5,
+        "losses": 8,
+        "goalsFor": 18,
+        "goalsAgainst": 25
       }
     },
     {
@@ -376,28 +398,6 @@
         "draws": 6,
         "losses": 8,
         "goalsFor": 16,
-        "goalsAgainst": 25
-      }
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "home": {
-        "played": 16,
-        "points": 19,
-        "wins": 5,
-        "draws": 4,
-        "losses": 7,
-        "goalsFor": 16,
-        "goalsAgainst": 17
-      },
-      "away": {
-        "played": 16,
-        "points": 14,
-        "wins": 3,
-        "draws": 5,
-        "losses": 8,
-        "goalsFor": 18,
         "goalsAgainst": 25
       }
     },
