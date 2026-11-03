@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-02T10:52:41.363614+00:00",
+  "fetchedAt": "2026-11-03T02:52:56.760828+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -78,24 +78,24 @@
       "sourceId": "7632"
     },
     {
+      "id": 794,
+      "name": "Red Bull Bragantino",
+      "points": 47,
+      "played": 34,
+      "goalsFor": 44,
+      "goalsAgainst": 39,
+      "position": 8,
+      "sourceId": "6079"
+    },
+    {
       "id": 128,
       "name": "Santos",
       "points": 47,
-      "played": 33,
-      "goalsFor": 49,
-      "goalsAgainst": 47,
-      "position": 8,
-      "sourceId": "2674"
-    },
-    {
-      "id": 794,
-      "name": "Red Bull Bragantino",
-      "points": 44,
-      "played": 33,
-      "goalsFor": 42,
-      "goalsAgainst": 38,
+      "played": 34,
+      "goalsFor": 50,
+      "goalsAgainst": 49,
       "position": 9,
-      "sourceId": "6079"
+      "sourceId": "2674"
     },
     {
       "id": 126,
