@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-03T18:22:27.670640+00:00",
+  "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -3284,9 +3284,9 @@
       "id": "132-7848",
       "home": 132,
       "away": 7848,
-      "date": 1793745000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     }
   ]
 }
