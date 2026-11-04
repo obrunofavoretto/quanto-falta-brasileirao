@@ -27,14 +27,9 @@
  <div class="legend" aria-label="Legenda das divisões">
   <span><i class="swatch a"></i>Série A</span><span><i class="swatch b"></i>Série B</span><span><i class="swatch c"></i>Série C</span><span><i class="swatch d"></i>Série D</span><span><i class="swatch o"></i>— Sem participação</span>
  </div>
- <section class="selected" aria-labelledby="selected-name">
-  <div class="selected-top"><div><div class="eyebrow">Trajetória do clube</div><div class="club-title"><h2 id="selected-name">Avaí</h2><span class="uf" id="selected-uf">SC</span></div></div><div class="actions"><button type="button" class="btn" id="save-svg">Baixar gráfico do clube</button><button type="button" class="btn" id="print">Imprimir</button></div></div>
-  <div class="chart-scroll" id="chart-container"></div>
-  <div class="readout" id="readout" aria-live="polite"></div>
-  <div class="totals" id="totals"></div>
- </section>
+
  <section aria-labelledby="all-title">
-  <div class="section-top"><div><h2 id="all-title">Todos os clubes, ano a ano</h2><p>Selecione um clube ou uma célula para consultar a trajetória e a fonte daquela edição.</p></div><div class="view-toggle" aria-label="Visualização"><button type="button" class="btn" id="matrix-mode" aria-pressed="true">Mapa completo</button><button type="button" class="btn" id="year-mode" aria-pressed="false">Por temporada</button></div></div>
+  <div class="section-top"><div><h2 id="all-title">Todos os clubes, ano a ano</h2><p>Selecione um clube ou uma célula para ver a trajetória individual abaixo da tabela.</p></div><div class="view-toggle" aria-label="Visualização"><button type="button" class="btn" id="matrix-mode" aria-pressed="true">Mapa completo</button><button type="button" class="btn" id="year-mode" aria-pressed="false">Por temporada</button></div></div>
   <div class="controls">
    <label class="search">Buscar clube<input type="search" id="search" placeholder="Ex.: Avaí, Bahia, Santa Cruz…" autocomplete="off"></label>
    <label>Estado<select id="state"><option value="">Todos os estados</option></select></label>
@@ -45,6 +40,12 @@
   <div class="result-bar"><span id="results" aria-live="polite"></span><div class="actions"><button type="button" class="btn" id="reset">Limpar filtros</button><button type="button" class="btn primary" id="csv">Baixar dados em CSV</button></div></div>
   <div id="matrix"><div class="table-wrap"><table id="grid" aria-label="Clube por temporada e divisão nacional"><thead></thead><tbody></tbody></table></div><p class="help">Ordem alfabética. Em telas menores, deslize o mapa para os lados. A Série D começou em 2009.</p></div>
   <div id="annual" hidden><label style="max-width:190px">Temporada<select id="year"></select></label><div id="annual-content"></div></div>
+ </section>
+ <section class="selected" aria-labelledby="selected-name">
+  <div class="selected-top"><div><div class="eyebrow">Trajetória do clube</div><div class="club-title"><h2 id="selected-name">Avaí</h2><span class="uf" id="selected-uf">SC</span></div></div><div class="actions"><button type="button" class="btn" id="save-svg">Baixar gráfico do clube</button><button type="button" class="btn" id="print">Imprimir</button></div></div>
+  <div class="chart-scroll" id="chart-container"></div>
+  <div class="readout" id="readout" aria-live="polite"></div>
+  <div class="totals" id="totals"></div>
  </section>
  <details class="method"><summary>O que o gráfico mostra · critérios e fontes</summary>
   <p><strong>Universo:</strong> todos os clubes com participação identificada em pelo menos uma edição das Séries A, B, C ou D entre 2003 e 2026. Não é um cadastro de todos os clubes existentes no Brasil. Estaduais, copas e categorias de base ficam fora do recorte.</p>
