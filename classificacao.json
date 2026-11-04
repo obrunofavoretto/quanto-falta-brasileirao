@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
+  "fetchedAt": "2026-11-04T06:00:19.501360+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -111,11 +111,21 @@
       "id": 147,
       "name": "Coritiba",
       "points": 42,
-      "played": 33,
+      "played": 34,
       "goalsFor": 40,
-      "goalsAgainst": 50,
+      "goalsAgainst": 51,
       "position": 11,
       "sourceId": "3456"
+    },
+    {
+      "id": 7848,
+      "name": "Mirassol",
+      "points": 40,
+      "played": 34,
+      "goalsFor": 39,
+      "goalsAgainst": 48,
+      "position": 12,
+      "sourceId": "9169"
     },
     {
       "id": 120,
@@ -124,7 +134,7 @@
       "played": 33,
       "goalsFor": 45,
       "goalsAgainst": 53,
-      "position": 12,
+      "position": 13,
       "sourceId": "6086"
     },
     {
@@ -134,7 +144,7 @@
       "played": 32,
       "goalsFor": 40,
       "goalsAgainst": 49,
-      "position": 13,
+      "position": 14,
       "sourceId": "3454"
     },
     {
@@ -144,8 +154,18 @@
       "played": 33,
       "goalsFor": 35,
       "goalsAgainst": 48,
-      "position": 14,
+      "position": 15,
       "sourceId": "3457"
+    },
+    {
+      "id": 119,
+      "name": "Internacional",
+      "points": 38,
+      "played": 34,
+      "goalsFor": 38,
+      "goalsAgainst": 42,
+      "position": 16,
+      "sourceId": "1936"
     },
     {
       "id": 130,
@@ -154,18 +174,8 @@
       "played": 33,
       "goalsFor": 37,
       "goalsAgainst": 44,
-      "position": 15,
+      "position": 17,
       "sourceId": "6273"
-    },
-    {
-      "id": 7848,
-      "name": "Mirassol",
-      "points": 37,
-      "played": 33,
-      "goalsFor": 37,
-      "goalsAgainst": 47,
-      "position": 16,
-      "sourceId": "9169"
     },
     {
       "id": 131,
@@ -174,18 +184,8 @@
       "played": 33,
       "goalsFor": 36,
       "goalsAgainst": 42,
-      "position": 17,
-      "sourceId": "874"
-    },
-    {
-      "id": 119,
-      "name": "Internacional",
-      "points": 35,
-      "played": 33,
-      "goalsFor": 37,
-      "goalsAgainst": 42,
       "position": 18,
-      "sourceId": "1936"
+      "sourceId": "874"
     },
     {
       "id": 1198,
@@ -201,9 +201,9 @@
       "id": 132,
       "name": "Chapecoense",
       "points": 21,
-      "played": 32,
-      "goalsFor": 32,
-      "goalsAgainst": 66,
+      "played": 33,
+      "goalsFor": 33,
+      "goalsAgainst": 68,
       "position": 20,
       "sourceId": "9318"
     }

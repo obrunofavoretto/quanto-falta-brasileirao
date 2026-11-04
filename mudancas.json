@@ -1,7 +1,7 @@
 {
   "current": {
-    "date": "2026-11-03",
-    "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
+    "date": "2026-11-04",
+    "fetchedAt": "2026-11-04T06:00:19.501360+00:00",
     "teams": [
       {
         "id": 127,
@@ -107,11 +107,21 @@
         "id": 147,
         "name": "Coritiba",
         "points": 42,
-        "played": 33,
+        "played": 34,
         "goalsFor": 40,
-        "goalsAgainst": 50,
+        "goalsAgainst": 51,
         "position": 11,
         "sourceId": "3456"
+      },
+      {
+        "id": 7848,
+        "name": "Mirassol",
+        "points": 40,
+        "played": 34,
+        "goalsFor": 39,
+        "goalsAgainst": 48,
+        "position": 12,
+        "sourceId": "9169"
       },
       {
         "id": 120,
@@ -120,7 +130,7 @@
         "played": 33,
         "goalsFor": 45,
         "goalsAgainst": 53,
-        "position": 12,
+        "position": 13,
         "sourceId": "6086"
       },
       {
@@ -130,7 +140,7 @@
         "played": 32,
         "goalsFor": 40,
         "goalsAgainst": 49,
-        "position": 13,
+        "position": 14,
         "sourceId": "3454"
       },
       {
@@ -140,8 +150,18 @@
         "played": 33,
         "goalsFor": 35,
         "goalsAgainst": 48,
-        "position": 14,
+        "position": 15,
         "sourceId": "3457"
+      },
+      {
+        "id": 119,
+        "name": "Internacional",
+        "points": 38,
+        "played": 34,
+        "goalsFor": 38,
+        "goalsAgainst": 42,
+        "position": 16,
+        "sourceId": "1936"
       },
       {
         "id": 130,
@@ -150,18 +170,8 @@
         "played": 33,
         "goalsFor": 37,
         "goalsAgainst": 44,
-        "position": 15,
+        "position": 17,
         "sourceId": "6273"
-      },
-      {
-        "id": 7848,
-        "name": "Mirassol",
-        "points": 37,
-        "played": 33,
-        "goalsFor": 37,
-        "goalsAgainst": 47,
-        "position": 16,
-        "sourceId": "9169"
       },
       {
         "id": 131,
@@ -170,18 +180,8 @@
         "played": 33,
         "goalsFor": 36,
         "goalsAgainst": 42,
-        "position": 17,
-        "sourceId": "874"
-      },
-      {
-        "id": 119,
-        "name": "Internacional",
-        "points": 35,
-        "played": 33,
-        "goalsFor": 37,
-        "goalsAgainst": 42,
         "position": 18,
-        "sourceId": "1936"
+        "sourceId": "874"
       },
       {
         "id": 1198,
@@ -197,17 +197,17 @@
         "id": 132,
         "name": "Chapecoense",
         "points": 21,
-        "played": 32,
-        "goalsFor": 32,
-        "goalsAgainst": 66,
+        "played": 33,
+        "goalsFor": 33,
+        "goalsAgainst": 68,
         "position": 20,
         "sourceId": "9318"
       }
     ]
   },
   "before": {
-    "date": "2026-11-02",
-    "fetchedAt": "2026-11-02T10:52:41.363614+00:00",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
     "teams": [
       {
         "id": 127,
@@ -280,24 +280,24 @@
         "sourceId": "7632"
       },
       {
+        "id": 794,
+        "name": "Red Bull Bragantino",
+        "points": 47,
+        "played": 34,
+        "goalsFor": 44,
+        "goalsAgainst": 39,
+        "position": 8,
+        "sourceId": "6079"
+      },
+      {
         "id": 128,
         "name": "Santos",
         "points": 47,
-        "played": 33,
-        "goalsFor": 49,
-        "goalsAgainst": 47,
-        "position": 8,
-        "sourceId": "2674"
-      },
-      {
-        "id": 794,
-        "name": "Red Bull Bragantino",
-        "points": 44,
-        "played": 33,
-        "goalsFor": 42,
-        "goalsAgainst": 38,
+        "played": 34,
+        "goalsFor": 50,
+        "goalsAgainst": 49,
         "position": 9,
-        "sourceId": "6079"
+        "sourceId": "2674"
       },
       {
         "id": 126,
@@ -1549,6 +1549,212 @@
           "goalsAgainst": 38,
           "position": 9,
           "sourceId": "6079"
+        },
+        {
+          "id": 126,
+          "name": "São Paulo",
+          "points": 43,
+          "played": 33,
+          "goalsFor": 39,
+          "goalsAgainst": 39,
+          "position": 10,
+          "sourceId": "2026"
+        },
+        {
+          "id": 147,
+          "name": "Coritiba",
+          "points": 42,
+          "played": 33,
+          "goalsFor": 40,
+          "goalsAgainst": 50,
+          "position": 11,
+          "sourceId": "3456"
+        },
+        {
+          "id": 120,
+          "name": "Botafogo",
+          "points": 39,
+          "played": 33,
+          "goalsFor": 45,
+          "goalsAgainst": 53,
+          "position": 12,
+          "sourceId": "6086"
+        },
+        {
+          "id": 133,
+          "name": "Vasco da Gama",
+          "points": 38,
+          "played": 32,
+          "goalsFor": 40,
+          "goalsAgainst": 49,
+          "position": 13,
+          "sourceId": "3454"
+        },
+        {
+          "id": 136,
+          "name": "Vitória",
+          "points": 38,
+          "played": 33,
+          "goalsFor": 35,
+          "goalsAgainst": 48,
+          "position": 14,
+          "sourceId": "3457"
+        },
+        {
+          "id": 130,
+          "name": "Grêmio",
+          "points": 37,
+          "played": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 44,
+          "position": 15,
+          "sourceId": "6273"
+        },
+        {
+          "id": 7848,
+          "name": "Mirassol",
+          "points": 37,
+          "played": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 47,
+          "position": 16,
+          "sourceId": "9169"
+        },
+        {
+          "id": 131,
+          "name": "Corinthians",
+          "points": 36,
+          "played": 33,
+          "goalsFor": 36,
+          "goalsAgainst": 42,
+          "position": 17,
+          "sourceId": "874"
+        },
+        {
+          "id": 119,
+          "name": "Internacional",
+          "points": 35,
+          "played": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 42,
+          "position": 18,
+          "sourceId": "1936"
+        },
+        {
+          "id": 1198,
+          "name": "Remo",
+          "points": 29,
+          "played": 33,
+          "goalsFor": 36,
+          "goalsAgainst": 51,
+          "position": 19,
+          "sourceId": "4936"
+        },
+        {
+          "id": 132,
+          "name": "Chapecoense",
+          "points": 21,
+          "played": 32,
+          "goalsFor": 32,
+          "goalsAgainst": 66,
+          "position": 20,
+          "sourceId": "9318"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
+      "teams": [
+        {
+          "id": 127,
+          "name": "Flamengo",
+          "points": 73,
+          "played": 33,
+          "goalsFor": 68,
+          "goalsAgainst": 28,
+          "position": 1,
+          "sourceId": "819"
+        },
+        {
+          "id": 121,
+          "name": "Palmeiras",
+          "points": 70,
+          "played": 33,
+          "goalsFor": 56,
+          "goalsAgainst": 22,
+          "position": 2,
+          "sourceId": "2029"
+        },
+        {
+          "id": 135,
+          "name": "Cruzeiro",
+          "points": 57,
+          "played": 33,
+          "goalsFor": 52,
+          "goalsAgainst": 46,
+          "position": 3,
+          "sourceId": "2022"
+        },
+        {
+          "id": 124,
+          "name": "Fluminense",
+          "points": 54,
+          "played": 33,
+          "goalsFor": 52,
+          "goalsAgainst": 42,
+          "position": 4,
+          "sourceId": "3445"
+        },
+        {
+          "id": 134,
+          "name": "Athletico Paranaense",
+          "points": 54,
+          "played": 33,
+          "goalsFor": 50,
+          "goalsAgainst": 40,
+          "position": 5,
+          "sourceId": "3458"
+        },
+        {
+          "id": 118,
+          "name": "Bahia",
+          "points": 53,
+          "played": 33,
+          "goalsFor": 48,
+          "goalsAgainst": 42,
+          "position": 6,
+          "sourceId": "9967"
+        },
+        {
+          "id": 1062,
+          "name": "Atlético Mineiro",
+          "points": 50,
+          "played": 33,
+          "goalsFor": 44,
+          "goalsAgainst": 39,
+          "position": 7,
+          "sourceId": "7632"
+        },
+        {
+          "id": 794,
+          "name": "Red Bull Bragantino",
+          "points": 47,
+          "played": 34,
+          "goalsFor": 44,
+          "goalsAgainst": 39,
+          "position": 8,
+          "sourceId": "6079"
+        },
+        {
+          "id": 128,
+          "name": "Santos",
+          "points": 47,
+          "played": 34,
+          "goalsFor": 50,
+          "goalsAgainst": 49,
+          "position": 9,
+          "sourceId": "2674"
         },
         {
           "id": 126,

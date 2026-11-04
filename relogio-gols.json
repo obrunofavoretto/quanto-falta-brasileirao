@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-03T23:56:43.317212+00:00",
+  "fetchedAt": "2026-11-04T06:00:19.501360+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -80,7 +80,13 @@
       "id": 147,
       "name": "Coritiba",
       "sourceId": "3456",
-      "completed": 33
+      "completed": 34
+    },
+    {
+      "id": 7848,
+      "name": "Mirassol",
+      "sourceId": "9169",
+      "completed": 34
     },
     {
       "id": 120,
@@ -101,27 +107,21 @@
       "completed": 33
     },
     {
+      "id": 119,
+      "name": "Internacional",
+      "sourceId": "1936",
+      "completed": 34
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "sourceId": "6273",
       "completed": 33
     },
     {
-      "id": 7848,
-      "name": "Mirassol",
-      "sourceId": "9169",
-      "completed": 33
-    },
-    {
       "id": 131,
       "name": "Corinthians",
       "sourceId": "874",
-      "completed": 33
-    },
-    {
-      "id": 119,
-      "name": "Internacional",
-      "sourceId": "1936",
       "completed": 33
     },
     {
@@ -134,7 +134,7 @@
       "id": 132,
       "name": "Chapecoense",
       "sourceId": "9318",
-      "completed": 32
+      "completed": 33
     }
   ],
   "matches": [
@@ -8469,8 +8469,52 @@
       ],
       "firstScorer": 794,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841304",
+      "date": "2026-11-03T22:30Z",
+      "home": 132,
+      "away": 7848,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 132,
+          "minute": "12",
+          "bin": 0
+        },
+        {
+          "team": 7848,
+          "minute": "45+4",
+          "bin": 3
+        },
+        {
+          "team": 7848,
+          "minute": "57",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 132,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841301",
+      "date": "2026-11-04T00:30Z",
+      "home": 119,
+      "away": 147,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 119,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 119,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 330,
+  "completedMatches": 332,
   "excluded": []
 }
