@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-05T02:13:39.318193+00:00",
+  "fetchedAt": "2026-11-05T10:42:16.900096+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -71,9 +71,9 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "points": 50,
-      "played": 33,
+      "played": 34,
       "goalsFor": 44,
-      "goalsAgainst": 39,
+      "goalsAgainst": 40,
       "position": 7,
       "sourceId": "7632"
     },
@@ -100,12 +100,22 @@
     {
       "id": 126,
       "name": "São Paulo",
-      "points": 43,
-      "played": 33,
+      "points": 44,
+      "played": 34,
       "goalsFor": 39,
       "goalsAgainst": 39,
       "position": 10,
       "sourceId": "2026"
+    },
+    {
+      "id": 120,
+      "name": "Botafogo",
+      "points": 42,
+      "played": 34,
+      "goalsFor": 46,
+      "goalsAgainst": 53,
+      "position": 11,
+      "sourceId": "6086"
     },
     {
       "id": 147,
@@ -114,7 +124,7 @@
       "played": 34,
       "goalsFor": 40,
       "goalsAgainst": 51,
-      "position": 11,
+      "position": 12,
       "sourceId": "3456"
     },
     {
@@ -124,7 +134,7 @@
       "played": 33,
       "goalsFor": 43,
       "goalsAgainst": 50,
-      "position": 12,
+      "position": 13,
       "sourceId": "3454"
     },
     {
@@ -134,18 +144,8 @@
       "played": 34,
       "goalsFor": 39,
       "goalsAgainst": 48,
-      "position": 13,
-      "sourceId": "9169"
-    },
-    {
-      "id": 120,
-      "name": "Botafogo",
-      "points": 39,
-      "played": 33,
-      "goalsFor": 45,
-      "goalsAgainst": 53,
       "position": 14,
-      "sourceId": "6086"
+      "sourceId": "9169"
     },
     {
       "id": 136,
@@ -168,24 +168,24 @@
       "sourceId": "1936"
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "points": 37,
+      "played": 34,
+      "goalsFor": 36,
+      "goalsAgainst": 42,
+      "position": 17,
+      "sourceId": "874"
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "points": 37,
       "played": 34,
       "goalsFor": 38,
       "goalsAgainst": 47,
-      "position": 17,
-      "sourceId": "6273"
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "points": 36,
-      "played": 33,
-      "goalsFor": 36,
-      "goalsAgainst": 42,
       "position": 18,
-      "sourceId": "874"
+      "sourceId": "6273"
     },
     {
       "id": 1198,

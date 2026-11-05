@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-05T02:13:39.318193+00:00",
+  "fetchedAt": "2026-11-05T10:42:16.900096+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "sourceId": "7632",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 794,
@@ -74,7 +74,13 @@
       "id": 126,
       "name": "São Paulo",
       "sourceId": "2026",
-      "completed": 33
+      "completed": 34
+    },
+    {
+      "id": 120,
+      "name": "Botafogo",
+      "sourceId": "6086",
+      "completed": 34
     },
     {
       "id": 147,
@@ -95,12 +101,6 @@
       "completed": 34
     },
     {
-      "id": 120,
-      "name": "Botafogo",
-      "sourceId": "6086",
-      "completed": 33
-    },
-    {
       "id": 136,
       "name": "Vitória",
       "sourceId": "3457",
@@ -113,16 +113,16 @@
       "completed": 34
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "sourceId": "874",
+      "completed": 34
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "sourceId": "6273",
       "completed": 34
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "sourceId": "874",
-      "completed": 33
     },
     {
       "id": 1198,
@@ -8577,8 +8577,36 @@
       ],
       "firstScorer": 127,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841298",
+      "date": "2026-11-05T00:30Z",
+      "home": 126,
+      "away": 131,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401841305",
+      "date": "2026-11-05T00:30Z",
+      "home": 120,
+      "away": 1062,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 120,
+          "minute": "19",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 120,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 334,
+  "completedMatches": 336,
   "excluded": []
 }

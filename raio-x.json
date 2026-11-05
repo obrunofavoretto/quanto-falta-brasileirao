@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-05T02:13:39.318193+00:00",
+  "fetchedAt": "2026-11-05T10:42:16.900096+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -874,11 +874,24 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "points": 50,
-      "played": 33,
+      "played": 34,
       "goalsFor": 44,
-      "goalsAgainst": 39,
+      "goalsAgainst": 40,
       "position": 7,
       "recent": [
+        {
+          "id": "401841305",
+          "date": 1793838600000,
+          "home": "Botafogo",
+          "away": "Atlético Mineiro",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Botafogo",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841288",
           "date": 1793313000000,
@@ -995,23 +1008,10 @@
           "venue": "Fora",
           "score": "0–2",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841216",
-          "date": 1788039000000,
-          "home": "Atlético Mineiro",
-          "away": "Vitória",
-          "hg": 2,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Vitória",
-          "venue": "Casa",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841288",
-      "lastMatchDate": 1793313000000,
+      "lastMatchId": "401841305",
+      "lastMatchDate": 1793838600000,
       "sourceId": "7632"
     },
     {
@@ -1305,12 +1305,25 @@
     {
       "id": 126,
       "name": "São Paulo",
-      "points": 43,
-      "played": 33,
+      "points": 44,
+      "played": 34,
       "goalsFor": 39,
       "goalsAgainst": 39,
       "position": 10,
       "recent": [
+        {
+          "id": "401841298",
+          "date": 1793838600000,
+          "home": "São Paulo",
+          "away": "Corinthians",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Corinthians",
+          "venue": "Casa",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841296",
           "date": 1793233800000,
@@ -1427,24 +1440,155 @@
           "venue": "Casa",
           "score": "2–0",
           "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401841298",
+      "lastMatchDate": 1793838600000,
+      "sourceId": "2026"
+    },
+    {
+      "id": 120,
+      "name": "Botafogo",
+      "points": 42,
+      "played": 34,
+      "goalsFor": 46,
+      "goalsAgainst": 53,
+      "position": 11,
+      "recent": [
+        {
+          "id": "401841305",
+          "date": 1793838600000,
+          "home": "Botafogo",
+          "away": "Atlético Mineiro",
+          "hg": 1,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Atlético Mineiro",
+          "venue": "Casa",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
         },
         {
-          "id": "401841209",
-          "date": 1788044400000,
-          "home": "São Paulo",
-          "away": "Red Bull Bragantino",
+          "id": "401841297",
+          "date": 1793233800000,
+          "home": "Remo",
+          "away": "Botafogo",
           "hg": 2,
           "ag": 1,
+          "points": 0,
+          "opponent": "Remo",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841285",
+          "date": 1792870200000,
+          "home": "Internacional",
+          "away": "Botafogo",
+          "hg": 3,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Internacional",
+          "venue": "Fora",
+          "score": "0–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841268",
+          "date": 1792270800000,
+          "home": "Botafogo",
+          "away": "Chapecoense",
+          "hg": 1,
+          "ag": 0,
           "points": 3,
+          "opponent": "Chapecoense",
+          "venue": "Casa",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841264",
+          "date": 1791831600000,
+          "home": "Coritiba",
+          "away": "Botafogo",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Coritiba",
+          "venue": "Fora",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841257",
+          "date": 1791415800000,
+          "home": "Botafogo",
+          "away": "Vasco da Gama",
+          "hg": 1,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Vasco da Gama",
+          "venue": "Casa",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841245",
+          "date": 1789848000000,
+          "home": "Mirassol",
+          "away": "Botafogo",
+          "hg": 2,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Mirassol",
+          "venue": "Fora",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841176",
+          "date": 1789597800000,
+          "home": "Botafogo",
+          "away": "Grêmio",
+          "hg": 3,
+          "ag": 2,
+          "points": 3,
+          "opponent": "Grêmio",
+          "venue": "Casa",
+          "score": "3–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841229",
+          "date": 1789255800000,
+          "home": "Botafogo",
+          "away": "Red Bull Bragantino",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
           "opponent": "Red Bull Bragantino",
           "venue": "Casa",
-          "score": "2–1",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841221",
+          "date": 1788730200000,
+          "home": "Botafogo",
+          "away": "Palmeiras",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Palmeiras",
+          "venue": "Casa",
+          "score": "0–0",
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841296",
-      "lastMatchDate": 1793233800000,
-      "sourceId": "2026"
+      "lastMatchId": "401841305",
+      "lastMatchDate": 1793838600000,
+      "sourceId": "6086"
     },
     {
       "id": 147,
@@ -1453,7 +1597,7 @@
       "played": 34,
       "goalsFor": 40,
       "goalsAgainst": 51,
-      "position": 11,
+      "position": 12,
       "recent": [
         {
           "id": "401841301",
@@ -1597,7 +1741,7 @@
       "played": 33,
       "goalsFor": 43,
       "goalsAgainst": 50,
-      "position": 12,
+      "position": 13,
       "recent": [
         {
           "id": "401841306",
@@ -1741,7 +1885,7 @@
       "played": 34,
       "goalsFor": 39,
       "goalsAgainst": 48,
-      "position": 13,
+      "position": 14,
       "recent": [
         {
           "id": "401841304",
@@ -1877,150 +2021,6 @@
       "lastMatchId": "401841304",
       "lastMatchDate": 1793745000000,
       "sourceId": "9169"
-    },
-    {
-      "id": 120,
-      "name": "Botafogo",
-      "points": 39,
-      "played": 33,
-      "goalsFor": 45,
-      "goalsAgainst": 53,
-      "position": 14,
-      "recent": [
-        {
-          "id": "401841297",
-          "date": 1793233800000,
-          "home": "Remo",
-          "away": "Botafogo",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Remo",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841285",
-          "date": 1792870200000,
-          "home": "Internacional",
-          "away": "Botafogo",
-          "hg": 3,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Internacional",
-          "venue": "Fora",
-          "score": "0–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841268",
-          "date": 1792270800000,
-          "home": "Botafogo",
-          "away": "Chapecoense",
-          "hg": 1,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Chapecoense",
-          "venue": "Casa",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841264",
-          "date": 1791831600000,
-          "home": "Coritiba",
-          "away": "Botafogo",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Coritiba",
-          "venue": "Fora",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841257",
-          "date": 1791415800000,
-          "home": "Botafogo",
-          "away": "Vasco da Gama",
-          "hg": 1,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Vasco da Gama",
-          "venue": "Casa",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841245",
-          "date": 1789848000000,
-          "home": "Mirassol",
-          "away": "Botafogo",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Mirassol",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841176",
-          "date": 1789597800000,
-          "home": "Botafogo",
-          "away": "Grêmio",
-          "hg": 3,
-          "ag": 2,
-          "points": 3,
-          "opponent": "Grêmio",
-          "venue": "Casa",
-          "score": "3–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841229",
-          "date": 1789255800000,
-          "home": "Botafogo",
-          "away": "Red Bull Bragantino",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Red Bull Bragantino",
-          "venue": "Casa",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841221",
-          "date": 1788730200000,
-          "home": "Botafogo",
-          "away": "Palmeiras",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Palmeiras",
-          "venue": "Casa",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841213",
-          "date": 1788116400000,
-          "home": "Flamengo",
-          "away": "Botafogo",
-          "hg": 3,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Fora",
-          "score": "0–3",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401841297",
-      "lastMatchDate": 1793233800000,
-      "sourceId": "6086"
     },
     {
       "id": 136,
@@ -2311,13 +2311,157 @@
       "sourceId": "1936"
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "points": 37,
+      "played": 34,
+      "goalsFor": 36,
+      "goalsAgainst": 42,
+      "position": 17,
+      "recent": [
+        {
+          "id": "401841298",
+          "date": 1793838600000,
+          "home": "São Paulo",
+          "away": "Corinthians",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "São Paulo",
+          "venue": "Fora",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841295",
+          "date": 1793401200000,
+          "home": "Corinthians",
+          "away": "Mirassol",
+          "hg": 2,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Mirassol",
+          "venue": "Casa",
+          "score": "2–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841281",
+          "date": 1792877400000,
+          "home": "Vasco da Gama",
+          "away": "Corinthians",
+          "hg": 3,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Vasco da Gama",
+          "venue": "Fora",
+          "score": "2–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841272",
+          "date": 1792450800000,
+          "home": "Corinthians",
+          "away": "Vitória",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Vitória",
+          "venue": "Casa",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841261",
+          "date": 1791750600000,
+          "home": "Palmeiras",
+          "away": "Corinthians",
+          "hg": 4,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Palmeiras",
+          "venue": "Fora",
+          "score": "1–4",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841255",
+          "date": 1791412200000,
+          "home": "Internacional",
+          "away": "Corinthians",
+          "hg": 2,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Internacional",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841240",
+          "date": 1789930800000,
+          "home": "Corinthians",
+          "away": "Fluminense",
+          "hg": 1,
+          "ag": 3,
+          "points": 0,
+          "opponent": "Fluminense",
+          "venue": "Casa",
+          "score": "1–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841237",
+          "date": 1789331400000,
+          "home": "Flamengo",
+          "away": "Corinthians",
+          "hg": 2,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Flamengo",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841220",
+          "date": 1788733800000,
+          "home": "Corinthians",
+          "away": "Chapecoense",
+          "hg": 1,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Chapecoense",
+          "venue": "Casa",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401841214",
+          "date": 1788116400000,
+          "home": "Corinthians",
+          "away": "Santos",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Santos",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401841298",
+      "lastMatchDate": 1793838600000,
+      "sourceId": "874"
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "points": 37,
       "played": 34,
       "goalsFor": 38,
       "goalsAgainst": 47,
-      "position": 17,
+      "position": 18,
       "recent": [
         {
           "id": "401841307",
@@ -2453,150 +2597,6 @@
       "lastMatchId": "401841307",
       "lastMatchDate": 1793831400000,
       "sourceId": "6273"
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "points": 36,
-      "played": 33,
-      "goalsFor": 36,
-      "goalsAgainst": 42,
-      "position": 18,
-      "recent": [
-        {
-          "id": "401841295",
-          "date": 1793401200000,
-          "home": "Corinthians",
-          "away": "Mirassol",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Mirassol",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841281",
-          "date": 1792877400000,
-          "home": "Vasco da Gama",
-          "away": "Corinthians",
-          "hg": 3,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Vasco da Gama",
-          "venue": "Fora",
-          "score": "2–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841272",
-          "date": 1792450800000,
-          "home": "Corinthians",
-          "away": "Vitória",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Vitória",
-          "venue": "Casa",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841261",
-          "date": 1791750600000,
-          "home": "Palmeiras",
-          "away": "Corinthians",
-          "hg": 4,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Palmeiras",
-          "venue": "Fora",
-          "score": "1–4",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841255",
-          "date": 1791412200000,
-          "home": "Internacional",
-          "away": "Corinthians",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Internacional",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841240",
-          "date": 1789930800000,
-          "home": "Corinthians",
-          "away": "Fluminense",
-          "hg": 1,
-          "ag": 3,
-          "points": 0,
-          "opponent": "Fluminense",
-          "venue": "Casa",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841237",
-          "date": 1789331400000,
-          "home": "Flamengo",
-          "away": "Corinthians",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841220",
-          "date": 1788733800000,
-          "home": "Corinthians",
-          "away": "Chapecoense",
-          "hg": 1,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Chapecoense",
-          "venue": "Casa",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841214",
-          "date": 1788116400000,
-          "home": "Corinthians",
-          "away": "Santos",
-          "hg": 0,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Santos",
-          "venue": "Casa",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841207",
-          "date": 1787524200000,
-          "home": "Coritiba",
-          "away": "Corinthians",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Coritiba",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401841295",
-      "lastMatchDate": 1793401200000,
-      "sourceId": "874"
     },
     {
       "id": 1198,
@@ -3057,18 +3057,26 @@
       "status": "scheduled"
     },
     {
-      "id": "126-131",
-      "home": 126,
-      "away": 131,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "126-1198",
       "home": 126,
       "away": 1198,
       "date": 1795896000000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "120-118",
+      "home": 120,
+      "away": 118,
+      "date": 1795896000000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "120-126",
+      "home": 120,
+      "away": 126,
+      "date": 1795474800000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -3121,30 +3129,6 @@
       "status": "scheduled"
     },
     {
-      "id": "120-118",
-      "home": 120,
-      "away": 118,
-      "date": 1795896000000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "120-1062",
-      "home": 120,
-      "away": 1062,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "120-126",
-      "home": 120,
-      "away": 126,
-      "date": 1795474800000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
       "id": "136-124",
       "home": 136,
       "away": 124,
@@ -3185,22 +3169,6 @@
       "status": "scheduled"
     },
     {
-      "id": "130-118",
-      "home": 130,
-      "away": 118,
-      "date": 1795048200000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "130-7848",
-      "home": 130,
-      "away": 7848,
-      "date": 1796241600000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
       "id": "131-120",
       "home": 131,
       "away": 120,
@@ -3213,6 +3181,22 @@
       "home": 131,
       "away": 130,
       "date": 1795896000000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "130-118",
+      "home": 130,
+      "away": 118,
+      "date": 1795048200000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "130-7848",
+      "home": 130,
+      "away": 7848,
+      "date": 1796241600000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
