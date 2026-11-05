@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-04T21:14:09.867088+00:00",
+  "fetchedAt": "2026-11-05T02:13:39.318193+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 127,
       "name": "Flamengo",
       "sourceId": "819",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 121,
@@ -44,7 +44,7 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "sourceId": "3458",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 118,
@@ -83,6 +83,12 @@
       "completed": 34
     },
     {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "sourceId": "3454",
+      "completed": 33
+    },
+    {
       "id": 7848,
       "name": "Mirassol",
       "sourceId": "9169",
@@ -93,12 +99,6 @@
       "name": "Botafogo",
       "sourceId": "6086",
       "completed": 33
-    },
-    {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "sourceId": "3454",
-      "completed": 32
     },
     {
       "id": 136,
@@ -116,7 +116,7 @@
       "id": 130,
       "name": "Grêmio",
       "sourceId": "6273",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 131,
@@ -8513,8 +8513,72 @@
       ],
       "firstScorer": 119,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841306",
+      "date": "2026-11-04T22:30Z",
+      "home": 134,
+      "away": 133,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 134,
+          "minute": "22",
+          "bin": 1
+        },
+        {
+          "team": 133,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 133,
+          "minute": "63",
+          "bin": 5
+        },
+        {
+          "team": 133,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 134,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841307",
+      "date": "2026-11-04T22:30Z",
+      "home": 127,
+      "away": 130,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 127,
+          "minute": "20",
+          "bin": 1
+        },
+        {
+          "team": 127,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 127,
+          "minute": "45+2",
+          "bin": 3
+        },
+        {
+          "team": 130,
+          "minute": "69",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 127,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 332,
+  "completedMatches": 334,
   "excluded": []
 }

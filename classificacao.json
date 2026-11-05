@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-04T21:14:09.867088+00:00",
+  "fetchedAt": "2026-11-05T02:13:39.318193+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,10 +10,10 @@
     {
       "id": 127,
       "name": "Flamengo",
-      "points": 73,
-      "played": 33,
-      "goalsFor": 68,
-      "goalsAgainst": 28,
+      "points": 76,
+      "played": 34,
+      "goalsFor": 71,
+      "goalsAgainst": 29,
       "position": 1,
       "sourceId": "819"
     },
@@ -51,9 +51,9 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "points": 54,
-      "played": 33,
-      "goalsFor": 50,
-      "goalsAgainst": 40,
+      "played": 34,
+      "goalsFor": 51,
+      "goalsAgainst": 43,
       "position": 5,
       "sourceId": "3458"
     },
@@ -118,13 +118,23 @@
       "sourceId": "3456"
     },
     {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "points": 41,
+      "played": 33,
+      "goalsFor": 43,
+      "goalsAgainst": 50,
+      "position": 12,
+      "sourceId": "3454"
+    },
+    {
       "id": 7848,
       "name": "Mirassol",
       "points": 40,
       "played": 34,
       "goalsFor": 39,
       "goalsAgainst": 48,
-      "position": 12,
+      "position": 13,
       "sourceId": "9169"
     },
     {
@@ -134,18 +144,8 @@
       "played": 33,
       "goalsFor": 45,
       "goalsAgainst": 53,
-      "position": 13,
-      "sourceId": "6086"
-    },
-    {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "points": 38,
-      "played": 32,
-      "goalsFor": 40,
-      "goalsAgainst": 49,
       "position": 14,
-      "sourceId": "3454"
+      "sourceId": "6086"
     },
     {
       "id": 136,
@@ -171,9 +171,9 @@
       "id": 130,
       "name": "Grêmio",
       "points": 37,
-      "played": 33,
-      "goalsFor": 37,
-      "goalsAgainst": 44,
+      "played": 34,
+      "goalsFor": 38,
+      "goalsAgainst": 47,
       "position": 17,
       "sourceId": "6273"
     },
