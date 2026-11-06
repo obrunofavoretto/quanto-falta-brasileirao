@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-06T00:04:13.077395+00:00",
+  "fetchedAt": "2026-11-06T06:30:13.712370+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -26,13 +26,13 @@
       "id": 121,
       "name": "Palmeiras",
       "sourceId": "2029",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 135,
       "name": "Cruzeiro",
       "sourceId": "2022",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 124,
@@ -50,7 +50,7 @@
       "id": 118,
       "name": "Bahia",
       "sourceId": "9967",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 1062,
@@ -128,7 +128,7 @@
       "id": 1198,
       "name": "Remo",
       "sourceId": "4936",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 132,
@@ -8605,8 +8605,92 @@
       ],
       "firstScorer": 120,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841300",
+      "date": "2026-11-05T22:30Z",
+      "home": 121,
+      "away": 1198,
+      "hg": 6,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 121,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 121,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 121,
+          "minute": "21",
+          "bin": 1
+        },
+        {
+          "team": 121,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 1198,
+          "minute": "45+2",
+          "bin": 3
+        },
+        {
+          "team": 121,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 121,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 121,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841303",
+      "date": "2026-11-06T00:30Z",
+      "home": 135,
+      "away": 118,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 118,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 135,
+          "minute": "45+2",
+          "bin": 3
+        },
+        {
+          "team": 135,
+          "minute": "69",
+          "bin": 5
+        },
+        {
+          "team": 135,
+          "minute": "86",
+          "bin": 6
+        },
+        {
+          "team": 118,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 118,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 336,
+  "completedMatches": 338,
   "excluded": []
 }
