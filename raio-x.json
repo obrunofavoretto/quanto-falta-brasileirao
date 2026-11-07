@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-07T00:50:18.114419+00:00",
+  "fetchedAt": "2026-11-07T07:00:14.739202+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -441,12 +441,25 @@
     {
       "id": 124,
       "name": "Fluminense",
-      "points": 54,
-      "played": 33,
-      "goalsFor": 52,
+      "points": 57,
+      "played": 34,
+      "goalsFor": 55,
       "goalsAgainst": 42,
       "position": 4,
       "recent": [
+        {
+          "id": "401841302",
+          "date": 1794006000000,
+          "home": "Vitória",
+          "away": "Fluminense",
+          "hg": 0,
+          "ag": 3,
+          "points": 3,
+          "opponent": "Vitória",
+          "venue": "Fora",
+          "score": "3–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841289",
           "date": 1793226600000,
@@ -563,23 +576,10 @@
           "venue": "Fora",
           "score": "3–3",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841205",
-          "date": 1787425200000,
-          "home": "Fluminense",
-          "away": "Remo",
-          "hg": 2,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Remo",
-          "venue": "Casa",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841289",
-      "lastMatchDate": 1793226600000,
+      "lastMatchId": "401841302",
+      "lastMatchDate": 1794006000000,
       "sourceId": "3445"
     },
     {
@@ -2026,11 +2026,24 @@
       "id": 136,
       "name": "Vitória",
       "points": 38,
-      "played": 33,
+      "played": 34,
       "goalsFor": 35,
-      "goalsAgainst": 48,
+      "goalsAgainst": 51,
       "position": 15,
       "recent": [
+        {
+          "id": "401841302",
+          "date": 1794006000000,
+          "home": "Vitória",
+          "away": "Fluminense",
+          "hg": 0,
+          "ag": 3,
+          "points": 0,
+          "opponent": "Fluminense",
+          "venue": "Casa",
+          "score": "0–3",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841294",
           "date": 1793473200000,
@@ -2147,23 +2160,10 @@
           "venue": "Fora",
           "score": "1–2",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841200",
-          "date": 1787511600000,
-          "home": "Vitória",
-          "away": "Bahia",
-          "hg": 0,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Bahia",
-          "venue": "Casa",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841294",
-      "lastMatchDate": 1793473200000,
+      "lastMatchId": "401841302",
+      "lastMatchDate": 1794006000000,
       "sourceId": "3457"
     },
     {
@@ -3111,14 +3111,6 @@
       "date": 1794691800000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
-    },
-    {
-      "id": "136-124",
-      "home": 136,
-      "away": 124,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
     },
     {
       "id": "136-794",

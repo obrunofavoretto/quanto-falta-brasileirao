@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-07T00:50:18.114419+00:00",
+  "fetchedAt": "2026-11-07T07:00:14.739202+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,7 +38,7 @@
       "id": 124,
       "name": "Fluminense",
       "sourceId": "3445",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 134,
@@ -104,7 +104,7 @@
       "id": 136,
       "name": "Vitória",
       "sourceId": "3457",
-      "completed": 33
+      "completed": 34
     },
     {
       "id": 119,
@@ -8689,8 +8689,35 @@
       ],
       "firstScorer": 118,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841302",
+      "date": "2026-11-06T23:00Z",
+      "home": 136,
+      "away": 124,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 124,
+          "minute": "15",
+          "bin": 0
+        },
+        {
+          "team": 124,
+          "minute": "42",
+          "bin": 2
+        },
+        {
+          "team": 124,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 124,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 338,
+  "completedMatches": 339,
   "excluded": []
 }
