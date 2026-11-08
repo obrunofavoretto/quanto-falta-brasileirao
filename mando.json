@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T02:18:37.855911+00:00",
+  "fetchedAt": "2026-11-08T10:09:13.900724+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -381,7 +381,7 @@
     },
     {
       "id": 130,
-      "name": "Grêmio",
+      "name": "Grêmio[b]",
       "home": {
         "played": 17,
         "points": 29,
