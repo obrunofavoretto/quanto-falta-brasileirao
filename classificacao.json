@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-09T18:40:24.004299+00:00",
+  "fetchedAt": "2026-11-10T01:59:27.744776+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -179,7 +179,7 @@
     },
     {
       "id": 130,
-      "name": "Grêmio[c]",
+      "name": "Grêmio[b]",
       "points": 37,
       "played": 34,
       "goalsFor": 38,
