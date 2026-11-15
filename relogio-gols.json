@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
+  "fetchedAt": "2026-11-15T09:10:26.752578+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "sourceId": "7632",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 794,
@@ -98,7 +98,7 @@
       "id": 7848,
       "name": "Mirassol",
       "sourceId": "9169",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 136,
@@ -8718,6 +8718,17 @@
       "firstGoalStatus": "known"
     },
     {
+      "id": "401841311",
+      "date": "2026-11-14T21:30Z",
+      "home": 7848,
+      "away": 1062,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
       "id": "401841175",
       "date": "2026-11-14T23:30Z",
       "home": 132,
@@ -8740,6 +8751,6 @@
       "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 340,
+  "completedMatches": 341,
   "excluded": []
 }

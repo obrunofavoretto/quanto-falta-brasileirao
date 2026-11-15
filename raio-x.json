@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
+  "fetchedAt": "2026-11-15T09:10:26.752578+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -873,12 +873,25 @@
     {
       "id": 1062,
       "name": "Atlético Mineiro",
-      "points": 50,
-      "played": 34,
+      "points": 51,
+      "played": 35,
       "goalsFor": 44,
       "goalsAgainst": 40,
       "position": 7,
       "recent": [
+        {
+          "id": "401841311",
+          "date": 1794691800000,
+          "home": "Mirassol",
+          "away": "Atlético Mineiro",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Mirassol",
+          "venue": "Fora",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841305",
           "date": 1793838600000,
@@ -995,23 +1008,10 @@
           "venue": "Casa",
           "score": "3–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841226",
-          "date": 1788643800000,
-          "home": "São Paulo",
-          "away": "Atlético Mineiro",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "São Paulo",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841305",
-      "lastMatchDate": 1793838600000,
+      "lastMatchId": "401841311",
+      "lastMatchDate": 1794691800000,
       "sourceId": "7632"
     },
     {
@@ -1881,12 +1881,25 @@
     {
       "id": 7848,
       "name": "Mirassol",
-      "points": 40,
-      "played": 34,
+      "points": 41,
+      "played": 35,
       "goalsFor": 39,
       "goalsAgainst": 48,
       "position": 14,
       "recent": [
+        {
+          "id": "401841311",
+          "date": 1794691800000,
+          "home": "Mirassol",
+          "away": "Atlético Mineiro",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Atlético Mineiro",
+          "venue": "Casa",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841304",
           "date": 1793745000000,
@@ -2003,23 +2016,10 @@
           "venue": "Fora",
           "score": "2–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401913077",
-          "date": 1788388200000,
-          "home": "Flamengo",
-          "away": "Mirassol",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841304",
-      "lastMatchDate": 1793745000000,
+      "lastMatchId": "401841311",
+      "lastMatchDate": 1794691800000,
       "sourceId": "9169"
     },
     {
@@ -3103,14 +3103,6 @@
       "date": 1795987800000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
-    },
-    {
-      "id": "7848-1062",
-      "home": 7848,
-      "away": 1062,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
     },
     {
       "id": "136-794",

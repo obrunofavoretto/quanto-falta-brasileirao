@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
+  "fetchedAt": "2026-11-15T09:10:26.752578+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -150,10 +150,10 @@
         "goalsAgainst": 18
       },
       "away": {
-        "played": 17,
-        "points": 15,
+        "played": 18,
+        "points": 16,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "losses": 10,
         "goalsFor": 17,
         "goalsAgainst": 22
@@ -295,10 +295,10 @@
       "id": 7848,
       "name": "Mirassol",
       "home": {
-        "played": 17,
-        "points": 27,
+        "played": 18,
+        "points": 28,
         "wins": 7,
-        "draws": 6,
+        "draws": 7,
         "losses": 4,
         "goalsFor": 24,
         "goalsAgainst": 22
