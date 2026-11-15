@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-14T21:19:59.416440+00:00",
+  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -226,6 +226,28 @@
       }
     },
     {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "home": {
+        "played": 17,
+        "points": 27,
+        "wins": 8,
+        "draws": 3,
+        "losses": 6,
+        "goalsFor": 25,
+        "goalsAgainst": 24
+      },
+      "away": {
+        "played": 17,
+        "points": 17,
+        "wins": 4,
+        "draws": 5,
+        "losses": 8,
+        "goalsFor": 20,
+        "goalsAgainst": 26
+      }
+    },
+    {
       "id": 120,
       "name": "Botafogo",
       "home": {
@@ -267,28 +289,6 @@
         "losses": 8,
         "goalsFor": 18,
         "goalsAgainst": 30
-      }
-    },
-    {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "home": {
-        "played": 17,
-        "points": 27,
-        "wins": 8,
-        "draws": 3,
-        "losses": 6,
-        "goalsFor": 25,
-        "goalsAgainst": 24
-      },
-      "away": {
-        "played": 16,
-        "points": 14,
-        "wins": 3,
-        "draws": 5,
-        "losses": 8,
-        "goalsFor": 18,
-        "goalsAgainst": 26
       }
     },
     {
@@ -427,13 +427,13 @@
       "id": 132,
       "name": "Chapecoense",
       "home": {
-        "played": 16,
+        "played": 17,
         "points": 14,
         "wins": 3,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "goalsFor": 22,
-        "goalsAgainst": 36
+        "goalsAgainst": 38
       },
       "away": {
         "played": 17,

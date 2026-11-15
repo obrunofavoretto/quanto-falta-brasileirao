@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-14T21:19:59.416440+00:00",
+  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -108,13 +108,23 @@
       "sourceId": "2026"
     },
     {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "points": 44,
+      "played": 34,
+      "goalsFor": 45,
+      "goalsAgainst": 50,
+      "position": 11,
+      "sourceId": "3454"
+    },
+    {
       "id": 120,
       "name": "Botafogo",
       "points": 42,
       "played": 34,
       "goalsFor": 46,
       "goalsAgainst": 53,
-      "position": 11,
+      "position": 12,
       "sourceId": "6086"
     },
     {
@@ -124,18 +134,8 @@
       "played": 34,
       "goalsFor": 40,
       "goalsAgainst": 51,
-      "position": 12,
-      "sourceId": "3456"
-    },
-    {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "points": 41,
-      "played": 33,
-      "goalsFor": 43,
-      "goalsAgainst": 50,
       "position": 13,
-      "sourceId": "3454"
+      "sourceId": "3456"
     },
     {
       "id": 7848,
@@ -201,9 +201,9 @@
       "id": 132,
       "name": "Chapecoense",
       "points": 21,
-      "played": 33,
+      "played": 34,
       "goalsFor": 33,
-      "goalsAgainst": 68,
+      "goalsAgainst": 70,
       "position": 20,
       "sourceId": "9318"
     }

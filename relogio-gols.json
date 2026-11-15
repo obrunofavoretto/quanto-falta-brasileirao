@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-14T21:19:59.416440+00:00",
+  "fetchedAt": "2026-11-15T01:45:18.470056+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -77,6 +77,12 @@
       "completed": 34
     },
     {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "sourceId": "3454",
+      "completed": 34
+    },
+    {
       "id": 120,
       "name": "Botafogo",
       "sourceId": "6086",
@@ -87,12 +93,6 @@
       "name": "Coritiba",
       "sourceId": "3456",
       "completed": 34
-    },
-    {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "sourceId": "3454",
-      "completed": 33
     },
     {
       "id": 7848,
@@ -134,7 +134,7 @@
       "id": 132,
       "name": "Chapecoense",
       "sourceId": "9318",
-      "completed": 33
+      "completed": 34
     }
   ],
   "matches": [
@@ -8716,8 +8716,30 @@
       ],
       "firstScorer": 124,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841175",
+      "date": "2026-11-14T23:30Z",
+      "home": 132,
+      "away": 133,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 133,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 133,
+          "minute": "81",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 133,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 339,
+  "completedMatches": 340,
   "excluded": []
 }
