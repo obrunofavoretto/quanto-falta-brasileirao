@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-18T21:48:51.570384+00:00",
+  "fetchedAt": "2026-11-19T03:10:24.116736+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,19 +20,19 @@
       "id": 127,
       "name": "Flamengo",
       "sourceId": "819",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 121,
       "name": "Palmeiras",
       "sourceId": "2029",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 135,
       "name": "Cruzeiro",
       "sourceId": "2022",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 124,
@@ -44,13 +44,13 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "sourceId": "3458",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 118,
       "name": "Bahia",
       "sourceId": "9967",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 1062,
@@ -59,15 +59,15 @@
       "completed": 35
     },
     {
-      "id": 794,
-      "name": "Red Bull Bragantino",
-      "sourceId": "6079",
-      "completed": 34
-    },
-    {
       "id": 128,
       "name": "Santos",
       "sourceId": "2674",
+      "completed": 35
+    },
+    {
+      "id": 794,
+      "name": "Red Bull Bragantino",
+      "sourceId": "6079",
       "completed": 34
     },
     {
@@ -86,18 +86,24 @@
       "id": 120,
       "name": "Botafogo",
       "sourceId": "6086",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 147,
       "name": "Coritiba",
       "sourceId": "3456",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 7848,
       "name": "Mirassol",
       "sourceId": "9169",
+      "completed": 35
+    },
+    {
+      "id": 131,
+      "name": "Corinthians",
+      "sourceId": "874",
       "completed": 35
     },
     {
@@ -113,28 +119,22 @@
       "completed": 34
     },
     {
-      "id": 131,
-      "name": "Corinthians",
-      "sourceId": "874",
-      "completed": 34
-    },
-    {
       "id": 130,
       "name": "Grêmio[b]",
       "sourceId": "6273",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 1198,
       "name": "Remo",
       "sourceId": "4936",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 132,
       "name": "Chapecoense",
       "sourceId": "9318",
-      "completed": 34
+      "completed": 35
     }
   ],
   "matches": [
@@ -8749,8 +8749,144 @@
       ],
       "firstScorer": 133,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841315",
+      "date": "2026-11-18T22:30Z",
+      "home": 147,
+      "away": 128,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 128,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 128,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841310",
+      "date": "2026-11-18T23:00Z",
+      "home": 1198,
+      "away": 132,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 1198,
+          "minute": "3",
+          "bin": 0
+        },
+        {
+          "team": 1198,
+          "minute": "20",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 1198,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841313",
+      "date": "2026-11-18T23:30Z",
+      "home": 127,
+      "away": 134,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 134,
+          "minute": "11",
+          "bin": 0
+        },
+        {
+          "team": 127,
+          "minute": "17",
+          "bin": 1
+        },
+        {
+          "team": 127,
+          "minute": "27",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 134,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841314",
+      "date": "2026-11-18T23:30Z",
+      "home": 135,
+      "away": 121,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 121,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 135,
+          "minute": "74",
+          "bin": 5
+        },
+        {
+          "team": 135,
+          "minute": "77",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 121,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841312",
+      "date": "2026-11-19T00:30Z",
+      "home": 130,
+      "away": 118,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401841316",
+      "date": "2026-11-19T00:30Z",
+      "home": 131,
+      "away": 120,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 131,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 131,
+          "minute": "34",
+          "bin": 2
+        },
+        {
+          "team": 131,
+          "minute": "60",
+          "bin": 4
+        },
+        {
+          "team": 131,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 131,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 341,
+  "completedMatches": 347,
   "excluded": []
 }
