@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-19T21:22:20.923509+00:00",
+  "fetchedAt": "2026-11-20T02:58:44.568411+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -84,12 +84,12 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 17,
-        "points": 18,
-        "wins": 4,
+        "played": 18,
+        "points": 21,
+        "wins": 5,
         "draws": 6,
         "losses": 7,
-        "goalsFor": 24,
+        "goalsFor": 25,
         "goalsAgainst": 25
       }
     },
@@ -194,48 +194,26 @@
         "goalsAgainst": 18
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 17,
         "wins": 4,
         "draws": 5,
-        "losses": 8,
-        "goalsFor": 15,
-        "goalsAgainst": 21
-      }
-    },
-    {
-      "id": 126,
-      "name": "São Paulo",
-      "home": {
-        "played": 17,
-        "points": 34,
-        "wins": 10,
-        "draws": 4,
-        "losses": 3,
-        "goalsFor": 25,
-        "goalsAgainst": 13
-      },
-      "away": {
-        "played": 17,
-        "points": 10,
-        "wins": 2,
-        "draws": 4,
-        "losses": 11,
-        "goalsFor": 14,
-        "goalsAgainst": 26
+        "losses": 9,
+        "goalsFor": 16,
+        "goalsAgainst": 23
       }
     },
     {
       "id": 133,
       "name": "Vasco da Gama",
       "home": {
-        "played": 17,
-        "points": 27,
-        "wins": 8,
+        "played": 18,
+        "points": 30,
+        "wins": 9,
         "draws": 3,
         "losses": 6,
-        "goalsFor": 25,
-        "goalsAgainst": 24
+        "goalsFor": 27,
+        "goalsAgainst": 25
       },
       "away": {
         "played": 17,
@@ -244,6 +222,28 @@
         "draws": 5,
         "losses": 8,
         "goalsFor": 20,
+        "goalsAgainst": 26
+      }
+    },
+    {
+      "id": 126,
+      "name": "São Paulo",
+      "home": {
+        "played": 18,
+        "points": 34,
+        "wins": 10,
+        "draws": 4,
+        "losses": 4,
+        "goalsFor": 25,
+        "goalsAgainst": 14
+      },
+      "away": {
+        "played": 17,
+        "points": 10,
+        "wins": 2,
+        "draws": 4,
+        "losses": 11,
+        "goalsFor": 14,
         "goalsAgainst": 26
       }
     },
@@ -292,6 +292,28 @@
       }
     },
     {
+      "id": 136,
+      "name": "Vitória",
+      "home": {
+        "played": 18,
+        "points": 35,
+        "wins": 11,
+        "draws": 2,
+        "losses": 5,
+        "goalsFor": 25,
+        "goalsAgainst": 17
+      },
+      "away": {
+        "played": 17,
+        "points": 6,
+        "wins": 0,
+        "draws": 6,
+        "losses": 11,
+        "goalsFor": 12,
+        "goalsAgainst": 35
+      }
+    },
+    {
       "id": 7848,
       "name": "Mirassol",
       "home": {
@@ -336,28 +358,6 @@
       }
     },
     {
-      "id": 136,
-      "name": "Vitória",
-      "home": {
-        "played": 17,
-        "points": 32,
-        "wins": 10,
-        "draws": 2,
-        "losses": 5,
-        "goalsFor": 23,
-        "goalsAgainst": 16
-      },
-      "away": {
-        "played": 17,
-        "points": 6,
-        "wins": 0,
-        "draws": 6,
-        "losses": 11,
-        "goalsFor": 12,
-        "goalsAgainst": 35
-      }
-    },
-    {
       "id": 119,
       "name": "Internacional",
       "home": {
@@ -370,13 +370,13 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 15,
         "wins": 3,
         "draws": 6,
-        "losses": 8,
-        "goalsFor": 16,
-        "goalsAgainst": 25
+        "losses": 9,
+        "goalsFor": 17,
+        "goalsAgainst": 27
       }
     },
     {

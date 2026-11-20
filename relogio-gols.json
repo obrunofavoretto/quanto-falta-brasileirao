@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-19T21:22:20.923509+00:00",
+  "fetchedAt": "2026-11-20T02:58:44.568411+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,7 +38,7 @@
       "id": 124,
       "name": "Fluminense",
       "sourceId": "3445",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 134,
@@ -68,19 +68,19 @@
       "id": 794,
       "name": "Red Bull Bragantino",
       "sourceId": "6079",
-      "completed": 34
-    },
-    {
-      "id": 126,
-      "name": "São Paulo",
-      "sourceId": "2026",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 133,
       "name": "Vasco da Gama",
       "sourceId": "3454",
-      "completed": 34
+      "completed": 35
+    },
+    {
+      "id": 126,
+      "name": "São Paulo",
+      "sourceId": "2026",
+      "completed": 35
     },
     {
       "id": 120,
@@ -92,6 +92,12 @@
       "id": 147,
       "name": "Coritiba",
       "sourceId": "3456",
+      "completed": 35
+    },
+    {
+      "id": 136,
+      "name": "Vitória",
+      "sourceId": "3457",
       "completed": 35
     },
     {
@@ -107,16 +113,10 @@
       "completed": 35
     },
     {
-      "id": 136,
-      "name": "Vitória",
-      "sourceId": "3457",
-      "completed": 34
-    },
-    {
       "id": 119,
       "name": "Internacional",
       "sourceId": "1936",
-      "completed": 34
+      "completed": 35
     },
     {
       "id": 130,
@@ -8885,8 +8885,79 @@
       ],
       "firstScorer": 131,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841308",
+      "date": "2026-11-19T22:30Z",
+      "home": 133,
+      "away": 119,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 133,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 119,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 133,
+          "minute": "63",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 133,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841317",
+      "date": "2026-11-19T22:30Z",
+      "home": 136,
+      "away": 794,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 136,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 136,
+          "minute": "24",
+          "bin": 1
+        },
+        {
+          "team": 794,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 136,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841309",
+      "date": "2026-11-20T00:30Z",
+      "home": 126,
+      "away": 124,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 124,
+          "minute": "32",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 124,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 347,
+  "completedMatches": 350,
   "excluded": []
 }
