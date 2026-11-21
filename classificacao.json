@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:20:04.047099+00:00",
+  "fetchedAt": "2026-11-21T23:02:16.070512+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,20 +10,20 @@
     {
       "id": 127,
       "name": "Flamengo",
-      "points": 79,
-      "played": 35,
-      "goalsFor": 73,
-      "goalsAgainst": 30,
+      "points": 80,
+      "played": 36,
+      "goalsFor": 74,
+      "goalsAgainst": 31,
       "position": 1,
       "sourceId": "819"
     },
     {
       "id": 121,
       "name": "Palmeiras",
-      "points": 73,
-      "played": 35,
-      "goalsFor": 63,
-      "goalsAgainst": 25,
+      "points": 74,
+      "played": 36,
+      "goalsFor": 64,
+      "goalsAgainst": 26,
       "position": 2,
       "sourceId": "2029"
     },
@@ -61,9 +61,9 @@
       "id": 118,
       "name": "Bahia",
       "points": 54,
-      "played": 35,
+      "played": 36,
       "goalsFor": 50,
-      "goalsAgainst": 45,
+      "goalsAgainst": 46,
       "position": 6,
       "sourceId": "9967"
     },
@@ -108,13 +108,23 @@
       "sourceId": "3454"
     },
     {
+      "id": 147,
+      "name": "Coritiba",
+      "points": 45,
+      "played": 36,
+      "goalsFor": 41,
+      "goalsAgainst": 52,
+      "position": 11,
+      "sourceId": "3456"
+    },
+    {
       "id": 126,
       "name": "São Paulo",
       "points": 44,
       "played": 35,
       "goalsFor": 39,
       "goalsAgainst": 40,
-      "position": 11,
+      "position": 12,
       "sourceId": "2026"
     },
     {
@@ -124,18 +134,8 @@
       "played": 35,
       "goalsFor": 46,
       "goalsAgainst": 57,
-      "position": 12,
-      "sourceId": "6086"
-    },
-    {
-      "id": 147,
-      "name": "Coritiba",
-      "points": 42,
-      "played": 35,
-      "goalsFor": 40,
-      "goalsAgainst": 52,
       "position": 13,
-      "sourceId": "3456"
+      "sourceId": "6086"
     },
     {
       "id": 136,

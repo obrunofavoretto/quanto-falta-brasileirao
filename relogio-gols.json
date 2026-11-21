@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:20:04.047099+00:00",
+  "fetchedAt": "2026-11-21T23:02:16.070512+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,13 +20,13 @@
       "id": 127,
       "name": "Flamengo",
       "sourceId": "819",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 121,
       "name": "Palmeiras",
       "sourceId": "2029",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 135,
@@ -50,7 +50,7 @@
       "id": 118,
       "name": "Bahia",
       "sourceId": "9967",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 1062,
@@ -77,6 +77,12 @@
       "completed": 35
     },
     {
+      "id": 147,
+      "name": "Coritiba",
+      "sourceId": "3456",
+      "completed": 36
+    },
+    {
       "id": 126,
       "name": "São Paulo",
       "sourceId": "2026",
@@ -86,12 +92,6 @@
       "id": 120,
       "name": "Botafogo",
       "sourceId": "6086",
-      "completed": 35
-    },
-    {
-      "id": 147,
-      "name": "Coritiba",
-      "sourceId": "3456",
       "completed": 35
     },
     {
@@ -8956,8 +8956,47 @@
       ],
       "firstScorer": 124,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841322",
+      "date": "2026-11-21T19:30Z",
+      "home": 121,
+      "away": 127,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 121,
+          "minute": "12",
+          "bin": 0
+        },
+        {
+          "team": 127,
+          "minute": "76",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 121,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841327",
+      "date": "2026-11-21T20:30Z",
+      "home": 118,
+      "away": 147,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 147,
+          "minute": "74",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 147,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 350,
+  "completedMatches": 352,
   "excluded": []
 }
