@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T23:02:16.070512+00:00",
+  "fetchedAt": "2026-11-22T03:00:01.912536+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -32,7 +32,7 @@
       "id": 135,
       "name": "Cruzeiro",
       "sourceId": "2022",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 124,
@@ -134,7 +134,7 @@
       "id": 132,
       "name": "Chapecoense",
       "sourceId": "9318",
-      "completed": 35
+      "completed": 36
     }
   ],
   "matches": [
@@ -8995,8 +8995,35 @@
       ],
       "firstScorer": 147,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841325",
+      "date": "2026-11-22T00:00Z",
+      "home": 132,
+      "away": 135,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 135,
+          "minute": "49",
+          "bin": 4
+        },
+        {
+          "team": 132,
+          "minute": "74",
+          "bin": 5
+        },
+        {
+          "team": 135,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 135,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 352,
+  "completedMatches": 353,
   "excluded": []
 }
