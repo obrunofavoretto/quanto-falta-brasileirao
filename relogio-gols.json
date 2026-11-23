@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:27:19.612166+00:00",
+  "fetchedAt": "2026-11-23T00:10:33.240830+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,13 +38,13 @@
       "id": 124,
       "name": "Fluminense",
       "sourceId": "3445",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 134,
       "name": "Athletico Paranaense",
       "sourceId": "3458",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 118,
@@ -104,7 +104,7 @@
       "id": 7848,
       "name": "Mirassol",
       "sourceId": "9169",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 131,
@@ -128,7 +128,7 @@
       "id": 1198,
       "name": "Remo",
       "sourceId": "4936",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 132,
@@ -9022,8 +9022,67 @@
       ],
       "firstScorer": 135,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841318",
+      "date": "2026-11-22T19:00Z",
+      "home": 134,
+      "away": 1198,
+      "hg": 4,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 134,
+          "minute": "9",
+          "bin": 0
+        },
+        {
+          "team": 134,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 1198,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 134,
+          "minute": "68",
+          "bin": 5
+        },
+        {
+          "team": 134,
+          "minute": "84",
+          "bin": 6
+        },
+        {
+          "team": 1198,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 134,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841324",
+      "date": "2026-11-22T21:30Z",
+      "home": 124,
+      "away": 7848,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 124,
+          "minute": "90+1",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 124,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 353,
+  "completedMatches": 355,
   "excluded": []
 }

@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:27:19.612166+00:00",
+  "fetchedAt": "2026-11-23T00:10:33.240830+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -441,12 +441,25 @@
     {
       "id": 124,
       "name": "Fluminense",
-      "points": 60,
-      "played": 35,
-      "goalsFor": 56,
+      "points": 63,
+      "played": 36,
+      "goalsFor": 57,
       "goalsAgainst": 42,
       "position": 4,
       "recent": [
+        {
+          "id": "401841324",
+          "date": 1795383000000,
+          "home": "Fluminense",
+          "away": "Mirassol",
+          "hg": 1,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Mirassol",
+          "venue": "Casa",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841309",
           "date": 1795134600000,
@@ -563,34 +576,34 @@
           "venue": "Fora",
           "score": "1–3",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841227",
-          "date": 1788652800000,
-          "home": "Fluminense",
-          "away": "Vasco da Gama",
-          "hg": 1,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Vasco da Gama",
-          "venue": "Casa",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841309",
-      "lastMatchDate": 1795134600000,
+      "lastMatchId": "401841324",
+      "lastMatchDate": 1795383000000,
       "sourceId": "3445"
     },
     {
       "id": 134,
       "name": "Athletico Paranaense",
-      "points": 54,
-      "played": 35,
-      "goalsFor": 52,
-      "goalsAgainst": 45,
+      "points": 57,
+      "played": 36,
+      "goalsFor": 56,
+      "goalsAgainst": 47,
       "position": 5,
       "recent": [
+        {
+          "id": "401841318",
+          "date": 1795374000000,
+          "home": "Athletico Paranaense",
+          "away": "Remo",
+          "hg": 4,
+          "ag": 2,
+          "points": 3,
+          "opponent": "Remo",
+          "venue": "Casa",
+          "score": "4–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841313",
           "date": 1795044600000,
@@ -707,23 +720,10 @@
           "venue": "Fora",
           "score": "3–3",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841218",
-          "date": 1788721200000,
-          "home": "Cruzeiro",
-          "away": "Athletico Paranaense",
-          "hg": 3,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Cruzeiro",
-          "venue": "Fora",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841313",
-      "lastMatchDate": 1795044600000,
+      "lastMatchId": "401841318",
+      "lastMatchDate": 1795374000000,
       "sourceId": "3458"
     },
     {
@@ -2026,11 +2026,24 @@
       "id": 7848,
       "name": "Mirassol",
       "points": 41,
-      "played": 35,
+      "played": 36,
       "goalsFor": 39,
-      "goalsAgainst": 48,
+      "goalsAgainst": 49,
       "position": 15,
       "recent": [
+        {
+          "id": "401841324",
+          "date": 1795383000000,
+          "home": "Fluminense",
+          "away": "Mirassol",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Fluminense",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841311",
           "date": 1794691800000,
@@ -2147,23 +2160,10 @@
           "venue": "Casa",
           "score": "2–2",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841219",
-          "date": 1788703200000,
-          "home": "Coritiba",
-          "away": "Mirassol",
-          "hg": 1,
-          "ag": 2,
-          "points": 3,
-          "opponent": "Coritiba",
-          "venue": "Fora",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841311",
-      "lastMatchDate": 1794691800000,
+      "lastMatchId": "401841324",
+      "lastMatchDate": 1795383000000,
       "sourceId": "9169"
     },
     {
@@ -2602,11 +2602,24 @@
       "id": 1198,
       "name": "Remo",
       "points": 32,
-      "played": 35,
-      "goalsFor": 39,
-      "goalsAgainst": 57,
+      "played": 36,
+      "goalsFor": 41,
+      "goalsAgainst": 61,
       "position": 19,
       "recent": [
+        {
+          "id": "401841318",
+          "date": 1795374000000,
+          "home": "Athletico Paranaense",
+          "away": "Remo",
+          "hg": 4,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Athletico Paranaense",
+          "venue": "Fora",
+          "score": "2–4",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841310",
           "date": 1795042800000,
@@ -2723,23 +2736,10 @@
           "venue": "Fora",
           "score": "1–2",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841225",
-          "date": 1788721200000,
-          "home": "Remo",
-          "away": "Flamengo",
-          "hg": 0,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Casa",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841310",
-      "lastMatchDate": 1795042800000,
+      "lastMatchId": "401841318",
+      "lastMatchDate": 1795374000000,
       "sourceId": "4936"
     },
     {

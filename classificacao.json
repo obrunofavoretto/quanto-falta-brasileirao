@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:27:19.612166+00:00",
+  "fetchedAt": "2026-11-23T00:10:33.240830+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -40,9 +40,9 @@
     {
       "id": 124,
       "name": "Fluminense",
-      "points": 60,
-      "played": 35,
-      "goalsFor": 56,
+      "points": 63,
+      "played": 36,
+      "goalsFor": 57,
       "goalsAgainst": 42,
       "position": 4,
       "sourceId": "3445"
@@ -50,10 +50,10 @@
     {
       "id": 134,
       "name": "Athletico Paranaense",
-      "points": 54,
-      "played": 35,
-      "goalsFor": 52,
-      "goalsAgainst": 45,
+      "points": 57,
+      "played": 36,
+      "goalsFor": 56,
+      "goalsAgainst": 47,
       "position": 5,
       "sourceId": "3458"
     },
@@ -151,9 +151,9 @@
       "id": 7848,
       "name": "Mirassol",
       "points": 41,
-      "played": 35,
+      "played": 36,
       "goalsFor": 39,
-      "goalsAgainst": 48,
+      "goalsAgainst": 49,
       "position": 15,
       "sourceId": "9169"
     },
@@ -191,9 +191,9 @@
       "id": 1198,
       "name": "Remo",
       "points": 32,
-      "played": 35,
-      "goalsFor": 39,
-      "goalsAgainst": 57,
+      "played": 36,
+      "goalsFor": 41,
+      "goalsAgainst": 61,
       "position": 19,
       "sourceId": "4936"
     },
