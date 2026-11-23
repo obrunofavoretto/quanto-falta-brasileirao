@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-23T00:10:33.240830+00:00",
+  "fetchedAt": "2026-11-23T08:53:09.012525+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -59,22 +59,22 @@
       "completed": 35
     },
     {
+      "id": 794,
+      "name": "Red Bull Bragantino",
+      "sourceId": "6079",
+      "completed": 36
+    },
+    {
       "id": 128,
       "name": "Santos",
       "sourceId": "2674",
       "completed": 35
     },
     {
-      "id": 794,
-      "name": "Red Bull Bragantino",
-      "sourceId": "6079",
-      "completed": 35
-    },
-    {
       "id": 133,
       "name": "Vasco da Gama",
       "sourceId": "3454",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 147,
@@ -9081,8 +9081,25 @@
       ],
       "firstScorer": 124,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841321",
+      "date": "2026-11-22T22:30Z",
+      "home": 794,
+      "away": 133,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 794,
+          "minute": "66",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 794,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 355,
+  "completedMatches": 356,
   "excluded": []
 }

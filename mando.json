@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-23T00:10:33.240830+00:00",
+  "fetchedAt": "2026-11-23T08:53:09.012525+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -160,6 +160,28 @@
       }
     },
     {
+      "id": 794,
+      "name": "Red Bull Bragantino",
+      "home": {
+        "played": 18,
+        "points": 33,
+        "wins": 10,
+        "draws": 3,
+        "losses": 5,
+        "goalsFor": 30,
+        "goalsAgainst": 18
+      },
+      "away": {
+        "played": 18,
+        "points": 17,
+        "wins": 4,
+        "draws": 5,
+        "losses": 9,
+        "goalsFor": 16,
+        "goalsAgainst": 23
+      }
+    },
+    {
       "id": 128,
       "name": "Santos",
       "home": {
@@ -182,28 +204,6 @@
       }
     },
     {
-      "id": 794,
-      "name": "Red Bull Bragantino",
-      "home": {
-        "played": 17,
-        "points": 30,
-        "wins": 9,
-        "draws": 3,
-        "losses": 5,
-        "goalsFor": 29,
-        "goalsAgainst": 18
-      },
-      "away": {
-        "played": 18,
-        "points": 17,
-        "wins": 4,
-        "draws": 5,
-        "losses": 9,
-        "goalsFor": 16,
-        "goalsAgainst": 23
-      }
-    },
-    {
       "id": 133,
       "name": "Vasco da Gama",
       "home": {
@@ -216,13 +216,13 @@
         "goalsAgainst": 25
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 17,
         "wins": 4,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "goalsFor": 20,
-        "goalsAgainst": 26
+        "goalsAgainst": 27
       }
     },
     {
