@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-23T21:11:52.018780+00:00",
+  "fetchedAt": "2026-11-24T05:54:01.969730+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -185,13 +185,13 @@
       "id": 128,
       "name": "Santos",
       "home": {
-        "played": 17,
+        "played": 18,
         "points": 25,
         "wins": 6,
         "draws": 7,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 23,
-        "goalsAgainst": 21
+        "goalsAgainst": 23
       },
       "away": {
         "played": 18,
@@ -226,6 +226,28 @@
       }
     },
     {
+      "id": 126,
+      "name": "São Paulo",
+      "home": {
+        "played": 18,
+        "points": 34,
+        "wins": 10,
+        "draws": 4,
+        "losses": 4,
+        "goalsFor": 25,
+        "goalsAgainst": 14
+      },
+      "away": {
+        "played": 18,
+        "points": 11,
+        "wins": 2,
+        "draws": 5,
+        "losses": 11,
+        "goalsFor": 15,
+        "goalsAgainst": 27
+      }
+    },
+    {
       "id": 147,
       "name": "Coritiba",
       "home": {
@@ -248,50 +270,6 @@
       }
     },
     {
-      "id": 126,
-      "name": "São Paulo",
-      "home": {
-        "played": 18,
-        "points": 34,
-        "wins": 10,
-        "draws": 4,
-        "losses": 4,
-        "goalsFor": 25,
-        "goalsAgainst": 14
-      },
-      "away": {
-        "played": 17,
-        "points": 10,
-        "wins": 2,
-        "draws": 4,
-        "losses": 11,
-        "goalsFor": 14,
-        "goalsAgainst": 26
-      }
-    },
-    {
-      "id": 120,
-      "name": "Botafogo",
-      "home": {
-        "played": 17,
-        "points": 27,
-        "wins": 7,
-        "draws": 6,
-        "losses": 4,
-        "goalsFor": 27,
-        "goalsAgainst": 22
-      },
-      "away": {
-        "played": 18,
-        "points": 15,
-        "wins": 4,
-        "draws": 3,
-        "losses": 11,
-        "goalsFor": 19,
-        "goalsAgainst": 35
-      }
-    },
-    {
       "id": 136,
       "name": "Vitória",
       "home": {
@@ -304,13 +282,57 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 17,
-        "points": 6,
-        "wins": 0,
+        "played": 18,
+        "points": 9,
+        "wins": 1,
         "draws": 6,
         "losses": 11,
-        "goalsFor": 12,
+        "goalsFor": 17,
+        "goalsAgainst": 37
+      }
+    },
+    {
+      "id": 120,
+      "name": "Botafogo",
+      "home": {
+        "played": 18,
+        "points": 28,
+        "wins": 7,
+        "draws": 7,
+        "losses": 4,
+        "goalsFor": 28,
+        "goalsAgainst": 23
+      },
+      "away": {
+        "played": 18,
+        "points": 15,
+        "wins": 4,
+        "draws": 3,
+        "losses": 11,
+        "goalsFor": 19,
         "goalsAgainst": 35
+      }
+    },
+    {
+      "id": 130,
+      "name": "Grêmio",
+      "home": {
+        "played": 18,
+        "points": 30,
+        "wins": 8,
+        "draws": 6,
+        "losses": 4,
+        "goalsFor": 27,
+        "goalsAgainst": 21
+      },
+      "away": {
+        "played": 18,
+        "points": 11,
+        "wins": 2,
+        "draws": 5,
+        "losses": 11,
+        "goalsFor": 13,
+        "goalsAgainst": 26
       }
     },
     {
@@ -361,13 +383,13 @@
       "id": 119,
       "name": "Internacional",
       "home": {
-        "played": 17,
+        "played": 18,
         "points": 23,
         "wins": 6,
         "draws": 5,
-        "losses": 6,
-        "goalsFor": 22,
-        "goalsAgainst": 17
+        "losses": 7,
+        "goalsFor": 24,
+        "goalsAgainst": 22
       },
       "away": {
         "played": 18,
@@ -377,28 +399,6 @@
         "losses": 9,
         "goalsFor": 17,
         "goalsAgainst": 27
-      }
-    },
-    {
-      "id": 130,
-      "name": "Grêmio[b]",
-      "home": {
-        "played": 18,
-        "points": 30,
-        "wins": 8,
-        "draws": 6,
-        "losses": 4,
-        "goalsFor": 27,
-        "goalsAgainst": 21
-      },
-      "away": {
-        "played": 17,
-        "points": 8,
-        "wins": 1,
-        "draws": 5,
-        "losses": 11,
-        "goalsFor": 11,
-        "goalsAgainst": 26
       }
     },
     {

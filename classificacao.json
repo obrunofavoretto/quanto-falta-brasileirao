@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-23T21:11:52.018780+00:00",
+  "fetchedAt": "2026-11-24T05:54:01.969730+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -91,9 +91,9 @@
       "id": 128,
       "name": "Santos",
       "points": 50,
-      "played": 35,
+      "played": 36,
       "goalsFor": 51,
-      "goalsAgainst": 49,
+      "goalsAgainst": 51,
       "position": 9,
       "sourceId": "2674"
     },
@@ -108,44 +108,54 @@
       "sourceId": "3454"
     },
     {
+      "id": 126,
+      "name": "São Paulo",
+      "points": 45,
+      "played": 36,
+      "goalsFor": 40,
+      "goalsAgainst": 41,
+      "position": 11,
+      "sourceId": "2026"
+    },
+    {
       "id": 147,
       "name": "Coritiba",
       "points": 45,
       "played": 36,
       "goalsFor": 41,
       "goalsAgainst": 52,
-      "position": 11,
-      "sourceId": "3456"
-    },
-    {
-      "id": 126,
-      "name": "São Paulo",
-      "points": 44,
-      "played": 35,
-      "goalsFor": 39,
-      "goalsAgainst": 40,
       "position": 12,
-      "sourceId": "2026"
-    },
-    {
-      "id": 120,
-      "name": "Botafogo",
-      "points": 42,
-      "played": 35,
-      "goalsFor": 46,
-      "goalsAgainst": 57,
-      "position": 13,
-      "sourceId": "6086"
+      "sourceId": "3456"
     },
     {
       "id": 136,
       "name": "Vitória",
-      "points": 41,
-      "played": 35,
-      "goalsFor": 37,
-      "goalsAgainst": 52,
-      "position": 14,
+      "points": 44,
+      "played": 36,
+      "goalsFor": 42,
+      "goalsAgainst": 54,
+      "position": 13,
       "sourceId": "3457"
+    },
+    {
+      "id": 120,
+      "name": "Botafogo",
+      "points": 43,
+      "played": 36,
+      "goalsFor": 47,
+      "goalsAgainst": 58,
+      "position": 14,
+      "sourceId": "6086"
+    },
+    {
+      "id": 130,
+      "name": "Grêmio",
+      "points": 41,
+      "played": 36,
+      "goalsFor": 40,
+      "goalsAgainst": 47,
+      "position": 15,
+      "sourceId": "6273"
     },
     {
       "id": 7848,
@@ -154,7 +164,7 @@
       "played": 36,
       "goalsFor": 39,
       "goalsAgainst": 49,
-      "position": 15,
+      "position": 16,
       "sourceId": "9169"
     },
     {
@@ -164,28 +174,18 @@
       "played": 35,
       "goalsFor": 40,
       "goalsAgainst": 42,
-      "position": 16,
+      "position": 17,
       "sourceId": "874"
     },
     {
       "id": 119,
       "name": "Internacional",
       "points": 38,
-      "played": 35,
-      "goalsFor": 39,
-      "goalsAgainst": 44,
-      "position": 17,
-      "sourceId": "1936"
-    },
-    {
-      "id": 130,
-      "name": "Grêmio[b]",
-      "points": 38,
-      "played": 35,
-      "goalsFor": 38,
-      "goalsAgainst": 47,
+      "played": 36,
+      "goalsFor": 41,
+      "goalsAgainst": 49,
       "position": 18,
-      "sourceId": "6273"
+      "sourceId": "1936"
     },
     {
       "id": 1198,
