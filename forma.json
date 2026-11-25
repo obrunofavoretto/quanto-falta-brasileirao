@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-24T17:28:41.838500+00:00",
+  "fetchedAt": "2026-11-25T02:14:53.324291+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -154,11 +154,24 @@
       "id": 121,
       "name": "Palmeiras",
       "points": 74,
-      "played": 36,
+      "played": 37,
       "goalsFor": 64,
-      "goalsAgainst": 26,
+      "goalsAgainst": 29,
       "position": 2,
       "recent": [
+        {
+          "id": "401841335",
+          "date": 1795554000000,
+          "home": "Chapecoense",
+          "away": "Palmeiras",
+          "hg": 3,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Chapecoense",
+          "venue": "Fora",
+          "score": "0–3",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841322",
           "date": 1795289400000,
@@ -275,23 +288,10 @@
           "venue": "Fora",
           "score": "0–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841234",
-          "date": 1789248600000,
-          "home": "Palmeiras",
-          "away": "São Paulo",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "São Paulo",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841322",
-      "lastMatchDate": 1795289400000,
+      "lastMatchId": "401841335",
+      "lastMatchDate": 1795554000000,
       "sourceId": "2029"
     },
     {
@@ -2745,12 +2745,25 @@
     {
       "id": 132,
       "name": "Chapecoense",
-      "points": 21,
-      "played": 36,
-      "goalsFor": 34,
+      "points": 24,
+      "played": 37,
+      "goalsFor": 37,
       "goalsAgainst": 74,
       "position": 20,
       "recent": [
+        {
+          "id": "401841335",
+          "date": 1795554000000,
+          "home": "Chapecoense",
+          "away": "Palmeiras",
+          "hg": 3,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Palmeiras",
+          "venue": "Casa",
+          "score": "3–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841325",
           "date": 1795305600000,
@@ -2867,23 +2880,10 @@
           "venue": "Fora",
           "score": "0–4",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841239",
-          "date": 1789844400000,
-          "home": "Atlético Mineiro",
-          "away": "Chapecoense",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Atlético Mineiro",
-          "venue": "Fora",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841325",
-      "lastMatchDate": 1795305600000,
+      "lastMatchId": "401841335",
+      "lastMatchDate": 1795554000000,
       "sourceId": "9318"
     }
   ]

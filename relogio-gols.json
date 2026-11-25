@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-24T17:28:41.838500+00:00",
+  "fetchedAt": "2026-11-25T02:14:53.324291+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -26,7 +26,7 @@
       "id": 121,
       "name": "Palmeiras",
       "sourceId": "2029",
-      "completed": 36
+      "completed": 37
     },
     {
       "id": 135,
@@ -134,7 +134,7 @@
       "id": 132,
       "name": "Chapecoense",
       "sourceId": "9318",
-      "completed": 36
+      "completed": 37
     }
   ],
   "matches": [
@@ -9189,8 +9189,35 @@
       ],
       "firstScorer": 130,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841335",
+      "date": "2026-11-24T21:00Z",
+      "home": 132,
+      "away": 121,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 132,
+          "minute": "5",
+          "bin": 0
+        },
+        {
+          "team": 132,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 132,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 132,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 359,
+  "completedMatches": 360,
   "excluded": []
 }

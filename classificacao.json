@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-24T17:28:41.838500+00:00",
+  "fetchedAt": "2026-11-25T02:14:53.324291+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -21,9 +21,9 @@
       "id": 121,
       "name": "Palmeiras",
       "points": 74,
-      "played": 36,
+      "played": 37,
       "goalsFor": 64,
-      "goalsAgainst": 26,
+      "goalsAgainst": 29,
       "position": 2,
       "sourceId": "2029"
     },
@@ -200,9 +200,9 @@
     {
       "id": 132,
       "name": "Chapecoense",
-      "points": 21,
-      "played": 36,
-      "goalsFor": 34,
+      "points": 24,
+      "played": 37,
+      "goalsFor": 37,
       "goalsAgainst": 74,
       "position": 20,
       "sourceId": "9318"
