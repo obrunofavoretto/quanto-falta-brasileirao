@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-25T22:23:44.201545+00:00",
+  "fetchedAt": "2026-11-26T04:54:28.072867+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -70,10 +70,10 @@
     {
       "id": 1062,
       "name": "Atlético Mineiro",
-      "points": 51,
-      "played": 35,
-      "goalsFor": 44,
-      "goalsAgainst": 40,
+      "points": 52,
+      "played": 36,
+      "goalsFor": 45,
+      "goalsAgainst": 41,
       "position": 7,
       "sourceId": "7632"
     },
@@ -148,13 +148,23 @@
       "sourceId": "6086"
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "points": 41,
+      "played": 36,
+      "goalsFor": 41,
+      "goalsAgainst": 43,
+      "position": 15,
+      "sourceId": "874"
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "points": 41,
       "played": 36,
       "goalsFor": 40,
       "goalsAgainst": 47,
-      "position": 15,
+      "position": 16,
       "sourceId": "6273"
     },
     {
@@ -164,18 +174,8 @@
       "played": 36,
       "goalsFor": 39,
       "goalsAgainst": 49,
-      "position": 16,
-      "sourceId": "9169"
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "points": 40,
-      "played": 35,
-      "goalsFor": 40,
-      "goalsAgainst": 42,
       "position": 17,
-      "sourceId": "874"
+      "sourceId": "9169"
     },
     {
       "id": 119,

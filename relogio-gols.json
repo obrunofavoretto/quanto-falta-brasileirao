@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-25T22:23:44.201545+00:00",
+  "fetchedAt": "2026-11-26T04:54:28.072867+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "sourceId": "7632",
-      "completed": 35
+      "completed": 36
     },
     {
       "id": 794,
@@ -101,6 +101,12 @@
       "completed": 36
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "sourceId": "874",
+      "completed": 36
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "sourceId": "6273",
@@ -111,12 +117,6 @@
       "name": "Mirassol",
       "sourceId": "9169",
       "completed": 36
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "sourceId": "874",
-      "completed": 35
     },
     {
       "id": 119,
@@ -9216,8 +9216,30 @@
       ],
       "firstScorer": 132,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841319",
+      "date": "2026-11-25T23:00Z",
+      "home": 1062,
+      "away": 131,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 131,
+          "minute": "70",
+          "bin": 5
+        },
+        {
+          "team": 1062,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 131,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 360,
+  "completedMatches": 361,
   "excluded": []
 }

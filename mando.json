@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-25T22:23:44.201545+00:00",
+  "fetchedAt": "2026-11-26T04:54:28.072867+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -141,13 +141,13 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "home": {
-        "played": 17,
-        "points": 35,
+        "played": 18,
+        "points": 36,
         "wins": 10,
-        "draws": 5,
+        "draws": 6,
         "losses": 2,
-        "goalsFor": 27,
-        "goalsAgainst": 18
+        "goalsFor": 28,
+        "goalsAgainst": 19
       },
       "away": {
         "played": 18,
@@ -314,6 +314,28 @@
       }
     },
     {
+      "id": 131,
+      "name": "Corinthians",
+      "home": {
+        "played": 18,
+        "points": 25,
+        "wins": 7,
+        "draws": 4,
+        "losses": 7,
+        "goalsFor": 22,
+        "goalsAgainst": 17
+      },
+      "away": {
+        "played": 18,
+        "points": 16,
+        "wins": 3,
+        "draws": 7,
+        "losses": 8,
+        "goalsFor": 19,
+        "goalsAgainst": 26
+      }
+    },
+    {
       "id": 130,
       "name": "Grêmio",
       "home": {
@@ -355,28 +377,6 @@
         "losses": 11,
         "goalsFor": 15,
         "goalsAgainst": 27
-      }
-    },
-    {
-      "id": 131,
-      "name": "Corinthians",
-      "home": {
-        "played": 18,
-        "points": 25,
-        "wins": 7,
-        "draws": 4,
-        "losses": 7,
-        "goalsFor": 22,
-        "goalsAgainst": 17
-      },
-      "away": {
-        "played": 17,
-        "points": 15,
-        "wins": 3,
-        "draws": 6,
-        "losses": 8,
-        "goalsFor": 18,
-        "goalsAgainst": 25
       }
     },
     {
