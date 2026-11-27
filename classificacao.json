@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-26T23:42:37.532003+00:00",
+  "fetchedAt": "2026-11-27T08:05:39.021084+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -98,24 +98,24 @@
       "sourceId": "2674"
     },
     {
+      "id": 126,
+      "name": "São Paulo",
+      "points": 48,
+      "played": 37,
+      "goalsFor": 43,
+      "goalsAgainst": 42,
+      "position": 10,
+      "sourceId": "2026"
+    },
+    {
       "id": 133,
       "name": "Vasco da Gama",
       "points": 47,
       "played": 36,
       "goalsFor": 47,
       "goalsAgainst": 52,
-      "position": 10,
-      "sourceId": "3454"
-    },
-    {
-      "id": 126,
-      "name": "São Paulo",
-      "points": 45,
-      "played": 36,
-      "goalsFor": 40,
-      "goalsAgainst": 41,
       "position": 11,
-      "sourceId": "2026"
+      "sourceId": "3454"
     },
     {
       "id": 147,
@@ -191,9 +191,9 @@
       "id": 1198,
       "name": "Remo",
       "points": 32,
-      "played": 36,
-      "goalsFor": 41,
-      "goalsAgainst": 61,
+      "played": 37,
+      "goalsFor": 42,
+      "goalsAgainst": 64,
       "position": 19,
       "sourceId": "4936"
     },

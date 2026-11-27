@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-26T23:42:37.532003+00:00",
+  "fetchedAt": "2026-11-27T08:05:39.021084+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -71,15 +71,15 @@
       "completed": 36
     },
     {
-      "id": 133,
-      "name": "Vasco da Gama",
-      "sourceId": "3454",
-      "completed": 36
-    },
-    {
       "id": 126,
       "name": "São Paulo",
       "sourceId": "2026",
+      "completed": 37
+    },
+    {
+      "id": 133,
+      "name": "Vasco da Gama",
+      "sourceId": "3454",
       "completed": 36
     },
     {
@@ -128,7 +128,7 @@
       "id": 1198,
       "name": "Remo",
       "sourceId": "4936",
-      "completed": 36
+      "completed": 37
     },
     {
       "id": 132,
@@ -9238,8 +9238,40 @@
       ],
       "firstScorer": 131,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841329",
+      "date": "2026-11-26T23:00Z",
+      "home": 126,
+      "away": 1198,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 126,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 1198,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 126,
+          "minute": "87",
+          "bin": 6
+        },
+        {
+          "team": 126,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 126,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 361,
+  "completedMatches": 362,
   "excluded": []
 }
