@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:49:35.337964+00:00",
+  "fetchedAt": "2026-11-28T01:52:01.040943+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/bra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -32,13 +32,13 @@
       "id": 135,
       "name": "Cruzeiro",
       "sourceId": "2022",
-      "completed": 36
+      "completed": 37
     },
     {
       "id": 124,
       "name": "Fluminense",
       "sourceId": "3445",
-      "completed": 36
+      "completed": 37
     },
     {
       "id": 134,
@@ -9270,8 +9270,25 @@
       ],
       "firstScorer": 126,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401841337",
+      "date": "2026-11-27T23:00Z",
+      "home": 124,
+      "away": 135,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 135,
+          "minute": "3",
+          "bin": 0
+        }
+      ],
+      "firstScorer": 135,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 362,
+  "completedMatches": 363,
   "excluded": []
 }

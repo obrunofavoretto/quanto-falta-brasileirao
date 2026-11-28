@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:49:35.337964+00:00",
+  "fetchedAt": "2026-11-28T01:52:01.040943+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -297,12 +297,25 @@
     {
       "id": 135,
       "name": "Cruzeiro",
-      "points": 66,
-      "played": 36,
-      "goalsFor": 59,
+      "points": 69,
+      "played": 37,
+      "goalsFor": 60,
       "goalsAgainst": 50,
       "position": 3,
       "recent": [
+        {
+          "id": "401841337",
+          "date": 1795820400000,
+          "home": "Fluminense",
+          "away": "Cruzeiro",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Fluminense",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841325",
           "date": 1795305600000,
@@ -419,34 +432,34 @@
           "venue": "Fora",
           "score": "3–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841233",
-          "date": 1789257600000,
-          "home": "Santos",
-          "away": "Cruzeiro",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Santos",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841325",
-      "lastMatchDate": 1795305600000,
+      "lastMatchId": "401841337",
+      "lastMatchDate": 1795820400000,
       "sourceId": "2022"
     },
     {
       "id": 124,
       "name": "Fluminense",
       "points": 63,
-      "played": 36,
+      "played": 37,
       "goalsFor": 57,
-      "goalsAgainst": 42,
+      "goalsAgainst": 43,
       "position": 4,
       "recent": [
+        {
+          "id": "401841337",
+          "date": 1795820400000,
+          "home": "Fluminense",
+          "away": "Cruzeiro",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Cruzeiro",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401841324",
           "date": 1795383000000,
@@ -563,23 +576,10 @@
           "venue": "Fora",
           "score": "3–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401841231",
-          "date": 1789239600000,
-          "home": "Atlético Mineiro",
-          "away": "Fluminense",
-          "hg": 3,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Atlético Mineiro",
-          "venue": "Fora",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401841324",
-      "lastMatchDate": 1795383000000,
+      "lastMatchId": "401841337",
+      "lastMatchDate": 1795820400000,
       "sourceId": "3445"
     },
     {
@@ -2909,14 +2909,6 @@
       "home": 135,
       "away": 119,
       "date": 1796257800000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "124-135",
-      "home": 124,
-      "away": 135,
-      "date": 1795820400000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },

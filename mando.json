@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:49:35.337964+00:00",
+  "fetchedAt": "2026-11-28T01:52:01.040943+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -62,12 +62,12 @@
         "goalsAgainst": 19
       },
       "away": {
-        "played": 18,
-        "points": 29,
-        "wins": 9,
+        "played": 19,
+        "points": 32,
+        "wins": 10,
         "draws": 2,
         "losses": 7,
-        "goalsFor": 27,
+        "goalsFor": 28,
         "goalsAgainst": 31
       }
     },
@@ -75,13 +75,13 @@
       "id": 124,
       "name": "Fluminense",
       "home": {
-        "played": 18,
+        "played": 19,
         "points": 42,
         "wins": 13,
         "draws": 3,
-        "losses": 2,
+        "losses": 3,
         "goalsFor": 32,
-        "goalsAgainst": 17
+        "goalsAgainst": 18
       },
       "away": {
         "played": 18,

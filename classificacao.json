@@ -1,7 +1,7 @@
 {
   "league": "br-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:49:35.337964+00:00",
+  "fetchedAt": "2026-11-28T01:52:01.040943+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -30,9 +30,9 @@
     {
       "id": 135,
       "name": "Cruzeiro",
-      "points": 66,
-      "played": 36,
-      "goalsFor": 59,
+      "points": 69,
+      "played": 37,
+      "goalsFor": 60,
       "goalsAgainst": 50,
       "position": 3,
       "sourceId": "2022"
@@ -41,9 +41,9 @@
       "id": 124,
       "name": "Fluminense",
       "points": 63,
-      "played": 36,
+      "played": 37,
       "goalsFor": 57,
-      "goalsAgainst": 42,
+      "goalsAgainst": 43,
       "position": 4,
       "sourceId": "3445"
     },
